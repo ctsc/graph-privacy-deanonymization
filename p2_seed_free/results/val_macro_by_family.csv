@@ -1,0 +1,10 @@
+method,family,precision,recall,f1,coverage,runtime_s
+degree_baseline,erdos_renyi,0.043000000000000003,0.043000000000000003,0.043000000000000003,1.0,0.007778766681440175
+spectral_initial_only,erdos_renyi,1.0,1.0,1.0,1.0,0.9978576000236595
+spectral_refine_percolate,erdos_renyi,1.0,1.0,1.0,1.0,0.8851419000420719
+degree_baseline,preferential_attachment,0.078,0.078,0.078,1.0,0.006885266707589229
+spectral_initial_only,preferential_attachment,1.0,1.0,1.0,1.0,0.6188719666485364
+spectral_refine_percolate,preferential_attachment,1.0,1.0,1.0,1.0,0.5999037332755203
+degree_baseline,stochastic_block,0.03566666666666667,0.03566666666666667,0.03566666666666667,1.0,0.008846333366818726
+spectral_initial_only,stochastic_block,1.0,1.0,1.0,1.0,1.017591266698825
+spectral_refine_percolate,stochastic_block,1.0,1.0,1.0,1.0,0.8414419667096809

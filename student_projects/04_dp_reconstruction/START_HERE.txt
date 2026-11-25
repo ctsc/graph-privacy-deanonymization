@@ -1,0 +1,5 @@
+Project 4: Ten-step Parameter Reconstruction with Differential Privacy
+Read DP_STUDENT_10STEPS.txt. Implement the attacks and evaluation yourself.
+This package contains epsilon_total=4 Test trajectories; public validation includes alternative settings and PUBLIC originals for your own evaluation. Private Test originals are excluded. Epsilon covers all ten updates.
+Tune using public validation, then freeze settings before predicting observations/.
+Use only this project's supplied public data. Do not use the MIA Digits corpus to look up private originals or combine private transcripts across trials/scenarios.

@@ -1,0 +1,24 @@
+{
+  "n_a": 600,
+  "n_b": 600,
+  "shared_nodes": 600,
+  "latent_node_count": 600,
+  "node_overlap_fraction": 1.0,
+  "edge_retention": 0.997009515178976,
+  "added_edge_fraction": 0.0029904848210240147,
+  "deleted_edges_b": 33,
+  "added_edges_b": 33,
+  "noise_fraction_requested": 0.003,
+  "dataset_version": "teaching_v4_free",
+  "perturbation_protocol": "A unmodified; B edge deletion + replacement",
+  "graph_parameters": {
+    "erdos_renyi_p": 0.06,
+    "sbm_p_in": 0.13,
+    "sbm_p_out": 0.025,
+    "ba_m": 6
+  },
+  "split": "test",
+  "instance": "erdos_renyi_medium_01",
+  "family": "erdos_renyi",
+  "difficulty": "medium"
+}

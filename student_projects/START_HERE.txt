@@ -1,0 +1,10 @@
+Privacy Projects: Student Materials
+
+01_seed_based: v4 seed-assisted graph matching.
+02_seed_free: v4 graph matching without seeds.
+03_membership_inference: Digits membership inference and early stopping.
+04_dp_reconstruction: ten consecutive private updates, DP epsilon_total=4 Test package.
+
+Each project contains English instructions and an environment.yml. The Conda environment privacy_projects can be created once and reused. Students implement their own methods. No instructor implementations, tests, scoring scripts or result reports are supplied.
+Give each group only its assigned project folder. Seed-free groups must not receive the seed-based folder. For DP, use only supplied public data, never the MIA full Digits corpus to look up private originals. Hidden teacher answers and teacher reports are excluded.
+DP non-private/other Test scenarios are withheld until DP submissions are frozen; public validation already permits method comparisons. Test observations from different trials are separate alternative experiments, not extra evidence to combine.

@@ -1,0 +1,15 @@
+seed_config,kind,pairs,precision
+degree_01,final,9,0.0
+degree_01,pseudo,5613,0.918938179226795
+degree_01,seed,57,1.0
+degree_05,pseudo,5411,0.9794862317501386
+degree_05,seed,285,1.0
+degree_10,pseudo,5130,0.9955165692007797
+degree_10,seed,570,1.0
+random_01,final,6,0.0
+random_01,pseudo,5603,0.8973764054970551
+random_01,seed,57,1.0
+random_05,pseudo,5415,0.9867036011080332
+random_05,seed,285,1.0
+random_10,pseudo,5130,0.9968810916179337
+random_10,seed,570,1.0

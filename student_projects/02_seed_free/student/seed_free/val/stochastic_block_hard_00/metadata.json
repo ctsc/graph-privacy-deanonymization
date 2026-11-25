@@ -1,0 +1,24 @@
+{
+  "n_a": 1000,
+  "n_b": 1000,
+  "shared_nodes": 1000,
+  "latent_node_count": 1000,
+  "node_overlap_fraction": 1.0,
+  "edge_retention": 0.9945098822120184,
+  "added_edge_fraction": 0.005490117787981633,
+  "deleted_edges_b": 165,
+  "added_edges_b": 165,
+  "noise_fraction_requested": 0.0055,
+  "dataset_version": "teaching_v4_free",
+  "perturbation_protocol": "A unmodified; B edge deletion + replacement",
+  "graph_parameters": {
+    "erdos_renyi_p": 0.06,
+    "sbm_p_in": 0.13,
+    "sbm_p_out": 0.025,
+    "ba_m": 6
+  },
+  "split": "val",
+  "instance": "stochastic_block_hard_00",
+  "family": "stochastic_block",
+  "difficulty": "hard"
+}

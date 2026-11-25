@@ -1,0 +1,47 @@
+Project 4: Image Reconstruction from Ten Consecutive Parameter Updates
+
+Goal
+Recover the actual private images used in ten consecutive SGD updates. Compare plain gradient matching, an attack with a public image prior, and a no-update public-mean baseline; evaluate per-example clipping and differential privacy.
+
+Data
+Digits has ten classes and64 pixels per8 by8 image. Supplied public data has800 prior/pretraining images and200 separate public calibration images. The private benchmark uses100 fixed images,10 per class, reused across batch sizes1,2,4 and noise/attack repeats42,43,44. Originals are hidden from the attacker. Use only supplied public/calibration data; do not retrieve the full source dataset or infer the hidden split.
+
+Ten-step protocol
+Each trial starts from the same PUBLIC pretrained softmax classifier. Select a private batch of B=1,2,4 images and reuse that SAME batch for10 consecutive SGD steps with learning rate0.1, no momentum, and no changing examples. Every step starts from the previous step's output, including DP noise. Different trials restart at the public model. Attackers know labels, learning rate, clipping and noise configuration, and observe ALL11 parameter states(theta0 through theta10). This is a stronger threat model than observing only initial/final parameters.
+Recover each observed update as g_t=(theta_t-theta_(t+1))/0.1. Do not divide the total endpoint difference by0.1 and treat it as a single gradient.
+
+Attacks
+Plain: jointly minimize summed gradient discrepancies across all10 steps, using each observed theta_t to evaluate the candidate batch. For the attack objective those observed parameters are fixed inputs, not simulated candidate training states. For batch1 without noise, the weight/bias gradient ratio supplies an exact initialization.
+Prior: additionally fit class-conditional pixel means/variances on800 public images. Select prior strength only on supplied public validation. For independent noise sigma per step, use sum_t ||candidate_gradient_t-observed_gradient_t||^2/2 plus factor*sigma^2 times a Gaussian image-prior penalty. Choose optimization settings using public validation.
+Public mean: ignore ALL updates and output the public mean image of each known class. A digit-shaped reconstruction may simply be a class template. Compare actual image MSE with this no-update baseline.
+
+Composed DP
+Clip each example's concatenated weights/bias gradient to norm C=1 before averaging. Under fixed-size replace-one adjacency, sensitivity is Delta=2C/B at EVERY step, conditional on the observed prior states. For total transcript epsilon and delta=1e-5, choose:
+  L = log(1/delta)
+  rho_total = (sqrt(L+epsilon_total)-sqrt(L))^2
+  sigma_per_step = Delta*sqrt(10/(2*rho_total))
+Each Gaussian step costs Delta^2/(2*sigma^2) in zCDP; add these costs over10 adaptive steps. Convert total rho to epsilon_total=rho+2sqrt(rho*log(1/delta)). Epsilon16/4/1 refers to ALL TEN updates, not a per-step budget. There is no subsampling amplification because the batch is reused throughout. Known labels/public initialization are conditions, not private releases protected here. Independent secret noise is used per step/trial. Combining different trial/scenario transcripts for overlapping records requires additional accounting.
+
+Files
+public.npz: public images,labels,calibration_images,calibration_labels,w,b.
+validation/batchB_SCENARIO.npz: states(trials,11,650),labels(trials,B),lr,clip,epsilon_total,delta_total,sigma_per_step,steps; PUBLIC originals(trials,B,64) are included here.
+observations/seedS/batchB_SCENARIO.npz: same observation fields, WITHOUT originals or source IDs. First640 parameter entries are row-major weights(10,64), last10 are bias.
+A new trial is a separate row of states, not a continuation of another trial. NaN epsilon marks non-private; NaN clip marks unclipped.
+
+Required work
+Derive the parameter-difference attack; compare the three attacks; compare B1/2/4 and non-private/clipping/DP on public validation; freeze parameters before hidden-Test submissions. Treat trials/scenarios as independent alternative observations. Never transfer originals recovered from a non-private scenario into a DP attack, or combine other private transcripts as side information.
+
+Submission and evaluation
+Submit one NPZ per assigned observation file with ONLY key images and shape(trials,B,64), finite pixels in[0,1]. Preserve trial and known-label-slot ordering. Images with the same known label may permute within a batch; teacher scoring uses label-constrained Hungarian alignment AFTER reconstruction. Truth must never be used inside the attack optimizer. Report MSE,PSNR,public-mean comparison,validation images and optimization convergence. Classification plausibility is not identity recovery. Teacher scoring includes independent utility accuracy at steps0 through10. Report three repeats without treating reused100 images as independent datasets.
+Default Test pack contains epsilon4 only. Non-private/other scenarios are separately controlled by the instructor. The complete source dataset is open, so these restrictions simulate an unknown private training set for the assignment.
+
+Implementation
+Implement your own reconstruction attacks, public-mean baseline and validation metrics. Use PUBLIC originals in validation/ to debug and tune your implementation. Freeze settings before producing hidden-Test predictions from observations/. Test originals and scoring remain with the instructor. No implementation or experimental results are supplied.
+
+Open investigations
+Compare inferred versus known labels; stronger public priors and regularization; optimization restarts; batch ambiguity; attack on endpoints only versus the full trajectory; changing-step batches with an appropriate accountant. Explain failures without claiming a finite optimization budget proves reconstruction impossible.
+
+Sources
+Digits: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
+Gradient inversion: https://arxiv.org/abs/2003.14053
+zCDP and adaptive composition: https://arxiv.org/abs/1605.02065

@@ -1,0 +1,8 @@
+{
+  "dataset": "sklearn_digits",
+  "source": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html",
+  "rows": 1797,
+  "features": 64,
+  "classes": 10,
+  "sha256": "f65bd93238b91d5d650951aacf6a718b3e747c876eb9c42367f2fca705eb82e7"
+}

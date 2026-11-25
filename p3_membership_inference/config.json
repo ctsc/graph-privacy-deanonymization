@@ -1,0 +1,20 @@
+{
+  "frozen": true,
+  "frozen_note": "Fixed before any target attack-Test evaluation. Attack choices (C, thresholds) are selected per seed on the calibration shadow only, by code, never on target data.",
+  "seeds": [42, 43, 44],
+  "pools": {"target_train": 100, "target_val": 100, "target_test": 100, "shadow_pool": 1200,
+            "shadow_attack_train": 900, "shadow_calibration": 300},
+  "n_dev_shadows": 3,
+  "shadow_sizes": {"train": 100, "val": 100, "nonmember": 100},
+  "mlp": {"hidden_layer_sizes": [64, 32], "solver": "adam", "learning_rate_init": 0.001,
+          "alpha": 0.0001, "batch_size": 32, "activation": "relu"},
+  "fixed_epochs": 600,
+  "early_stopping": {"monitor": "val_loss", "patience": 10, "max_epochs": 600, "restore_best": true},
+  "attack": {
+    "features": ["true_prob", "loss", "entropy", "max_prob", "correct", "label_onehot"],
+    "logistic_C_grid": [0.01, 0.1, 1.0, 10.0],
+    "C_selection": "highest ROC-AUC on calibration shadow",
+    "threshold_rule": "on calibration shadow, threshold with the largest TPR subject to FPR <= 0.05",
+    "target_fpr": 0.05
+  }
+}

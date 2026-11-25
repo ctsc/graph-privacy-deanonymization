@@ -1,0 +1,3898 @@
+{
+  "01_seed_based/PROJECT_INSTRUCTIONS.txt": {
+    "bytes": 1804,
+    "sha256": "68b23d27f093fbc9bb88c6e5d70f14a9536212af0a8db3844bd216a02632ed7c"
+  },
+  "01_seed_based/environment.yml": {
+    "bytes": 209,
+    "sha256": "9e59453e360436cbd91e959fdf1cc9d901a08cd09c3964094d4c91b9b7eea17b"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/edges_a.csv": {
+    "bytes": 19772,
+    "sha256": "f0d2a8b51190a031a3c6cd5506930f14e07c52595ceb7178193b626ebbc67306"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/edges_b.csv": {
+    "bytes": 19805,
+    "sha256": "d78adce1f565b9ab34fa831439a92382e2a9890df05e4ebefee88131d34e9833"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/metadata.json": {
+    "bytes": 624,
+    "sha256": "9ad8908ccd4047ab836aed0c87d96fcc4e15f463faa644fe2d9989b8138af48d"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/seeds_degree_01.csv": {
+    "bytes": 36,
+    "sha256": "bbf42ecd34a8a8b27080c2b76644f43d539565e4c488c99fd3478b188627c7cc"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/seeds_degree_05.csv": {
+    "bytes": 124,
+    "sha256": "f559d2509b3343a3714af70ff1963d67810d5ea770295250b460af0ca085b3ee"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/seeds_degree_10.csv": {
+    "bytes": 234,
+    "sha256": "f545aa0d1d486a24ecb99e6ae5949470cef53a13db90390da4edf5347330d30d"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/seeds_random_01.csv": {
+    "bytes": 34,
+    "sha256": "b1c30158c09d837694daaec6919f620a9413db28fd253fb085ab217a727054ce"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/seeds_random_05.csv": {
+    "bytes": 121,
+    "sha256": "66be01ab82015579b7c25b355a162bd29f229123d1ebbd2c80f12020805f16c9"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_00/seeds_random_10.csv": {
+    "bytes": 229,
+    "sha256": "56298fbd10992a6bfa271e8e7c6a1d7cf847d118a8c4ff52cf1f70f6c20f77bf"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/edges_a.csv": {
+    "bytes": 19069,
+    "sha256": "696db172a7ae73e546b890c4a3f2d6248423032d1984cdd2735455a7158768aa"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/edges_b.csv": {
+    "bytes": 19092,
+    "sha256": "076c476d58b803af16f535baaff888d770d462f44bd3162f3741df41c9984ae5"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/metadata.json": {
+    "bytes": 625,
+    "sha256": "0c64d5ad7441d03c798cd9cf5e5bee7fb8d88a18997cbc1158a43667b2b274a2"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/seeds_degree_01.csv": {
+    "bytes": 37,
+    "sha256": "ce42659829ea198ce946d423a49d7465a60039f845cc6bed81d2432b0c69eacf"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/seeds_degree_05.csv": {
+    "bytes": 121,
+    "sha256": "c0749424d269d3357633f9ff1c3ccf97332f2b1b1600f1eb5c3c62c9a26c72c1"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/seeds_degree_10.csv": {
+    "bytes": 230,
+    "sha256": "bd73941fdc8bf73ea882f08aee159af778875bd1272aa9450e3ee075dce50a17"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/seeds_random_01.csv": {
+    "bytes": 37,
+    "sha256": "65e9408552a47f475b0a6a599fde3f8b0d5d6c7db9008145f9be139df0146a6b"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/seeds_random_05.csv": {
+    "bytes": 120,
+    "sha256": "f91868db18ed56090135b942f1916ce0e0347f050f457153f4b53a633f7caabb"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_easy_01/seeds_random_10.csv": {
+    "bytes": 226,
+    "sha256": "4b0b66d0d7e7adc3a95a9842782a9242ee43f92e10f2e5491246738ae7b8d304"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/edges_a.csv": {
+    "bytes": 231678,
+    "sha256": "d17ca3ad8ce4237fb4ce878342ea501f7a71e540e02fb77f79c08313e93c194b"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/edges_b.csv": {
+    "bytes": 231793,
+    "sha256": "838bae5b339ab0a5c25ce619333c0af7db8a700f08363baf6575f3165b53b152"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/metadata.json": {
+    "bytes": 630,
+    "sha256": "564d434aed8bb4754720586cd8278ed078cc930ba6d09fc7670eac58539841ee"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/seeds_degree_01.csv": {
+    "bytes": 92,
+    "sha256": "7f3ddf4ba0985d4cf03d5a31bec3c1c8684def1e97eacc455cebf6bca8077a2a"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/seeds_degree_05.csv": {
+    "bytes": 406,
+    "sha256": "be85407d6e8b63766139f299d097a885767bb16c36d72ea051c847bdc7e81b2e"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/seeds_degree_10.csv": {
+    "bytes": 799,
+    "sha256": "dbcb67d054b9cff06bfd0cd4590b7dea279dc8163d762b1b1b2c85ad9be28a53"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/seeds_random_01.csv": {
+    "bytes": 93,
+    "sha256": "ac05a9002239c8b5ab90cb0a474e3237c889f70fd06f72b26444c7c4aaf95092"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/seeds_random_05.csv": {
+    "bytes": 406,
+    "sha256": "2befac433c1a9e9c47a42df4805b99e1054c63c3dfe3baf2ba3174d63462b622"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_00/seeds_random_10.csv": {
+    "bytes": 794,
+    "sha256": "79abfec6de81b2fb39942050fe3566ca2459943b09545b3e7c126416c42d4fbf"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/edges_a.csv": {
+    "bytes": 233516,
+    "sha256": "5caa12c4402128088030e63ed427c6e7c07ce2a48963d57c45f0c1a5d0bc23e4"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/edges_b.csv": {
+    "bytes": 233494,
+    "sha256": "3c965478f566abd4fce96c45d88b4469434540f8692957402288dd73f4709fcb"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/metadata.json": {
+    "bytes": 631,
+    "sha256": "631f6e2ef46fa862a9703a7a3464d01a8da44a35b293fb56b98e2bb9b1002693"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/seeds_degree_01.csv": {
+    "bytes": 92,
+    "sha256": "01c819b33d7e458924df2a70b96ea5f0110dc6b70d7365a1586311f4bb9494e8"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/seeds_degree_05.csv": {
+    "bytes": 402,
+    "sha256": "94d4570517e289acb98ee8ec3ae15327b3111a41457ec9cc8d0cda67440bcb5e"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/seeds_degree_10.csv": {
+    "bytes": 794,
+    "sha256": "2397f4354443a5d8f0a9627fbc9eca077384b613445cc37032cbee21ae0c560a"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/seeds_random_01.csv": {
+    "bytes": 93,
+    "sha256": "53c1dccffe74766f43916c527f1d01176887bed42281dd2077af2cf296b96c9d"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/seeds_random_05.csv": {
+    "bytes": 404,
+    "sha256": "cbcff1a8b5bb078d828293d245ad5b54fae622d079a0e4ea6c8b37d65e78b366"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_hard_01/seeds_random_10.csv": {
+    "bytes": 787,
+    "sha256": "aee369b8cf5fe990c22f18b5e0b8e07361fa899b9b1a1bc678fd7ff83f91efc9"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/edges_a.csv": {
+    "bytes": 83393,
+    "sha256": "8880016c2528a283e05afaab3568a309953c4dfaa8cb6671a8c3519e0b45a1ae"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/edges_b.csv": {
+    "bytes": 83584,
+    "sha256": "040dc649d1f8739fb6f4787acc0ea26493b632cc297dd166d4f571a65b3eae6a"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/metadata.json": {
+    "bytes": 631,
+    "sha256": "56a1b3477494840107b2cdd599ec01b3b8660a9bc84fe856c1faad5b544900f2"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/seeds_degree_01.csv": {
+    "bytes": 62,
+    "sha256": "11d6eb27654b48531a65f81a3a3614395018445741c253d8516e95849ca27b17"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/seeds_degree_05.csv": {
+    "bytes": 245,
+    "sha256": "717a4b6066546a3ddd31f32465c8585730e7d490ae8ac342e9fdde0357afcac7"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/seeds_degree_10.csv": {
+    "bytes": 469,
+    "sha256": "ad8f2ed806c46f39aabe8674202ce5102f87c316b7e55f1d60b537c54dc3f400"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/seeds_random_01.csv": {
+    "bytes": 59,
+    "sha256": "3946f271127b40db522988939b92f815b146d7c568f9eac5f4b92e3a0daadc0f"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/seeds_random_05.csv": {
+    "bytes": 244,
+    "sha256": "0be728b35ad10915f66cdab95b00719a6a9143d5293ee7576387120f9a59017f"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_00/seeds_random_10.csv": {
+    "bytes": 476,
+    "sha256": "1f66c11d35f1411c89bbeaf570aa94ff13df91205bd76fea4f4ef1e885a3684d"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/edges_a.csv": {
+    "bytes": 82907,
+    "sha256": "5f0926bbdcd6cab929c04eb6c0c33aff4a660997a9770ffa7032aacbe528fbcb"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/edges_b.csv": {
+    "bytes": 82701,
+    "sha256": "94f0c87568d08ca1d08ed6f7c8a7c64c26de27f0973ad7ab3002d48894e01ef3"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/metadata.json": {
+    "bytes": 631,
+    "sha256": "2b4b6dbaf15877fed8dfc324fdeece1810133bae7124d487b4e2f065f87661dc"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/seeds_degree_01.csv": {
+    "bytes": 60,
+    "sha256": "527fd495d57bcd32e6f5c8a70a077829552b6f5c4b7189c02697504e84fb01ca"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/seeds_degree_05.csv": {
+    "bytes": 241,
+    "sha256": "3b0b3b0d6644b5103924b8da9eff6d46d1fb63de12ca81d29a71a293c2f9739f"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/seeds_degree_10.csv": {
+    "bytes": 467,
+    "sha256": "06b0cb49c4d730581acfe7b6ce715cdc3f2e69dc76a609c586a11e1c44ab9454"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/seeds_random_01.csv": {
+    "bytes": 60,
+    "sha256": "5f64930cba8e50b7661a397eaac590427886cfd150f0a4174ea8fa74144e359a"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/seeds_random_05.csv": {
+    "bytes": 249,
+    "sha256": "1da2476636c735609a2466071856d9b3b4b77cf0de361f945835efea6e8626ea"
+  },
+  "01_seed_based/student/seed_based/test/erdos_renyi_medium_01/seeds_random_10.csv": {
+    "bytes": 482,
+    "sha256": "40ca6cf06bb2bb89bf618abe7a93c56745b094bdb2beef972a1b0293a32666f0"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/edges_a.csv": {
+    "bytes": 12816,
+    "sha256": "1b3dbf550cf8cb04647a4fee0276681a04fab514a04230273cb44b65a28c7856"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/edges_b.csv": {
+    "bytes": 12720,
+    "sha256": "1c46213a89b0362f625dbd75c08515a799f37636676ad86622ec4e13041759e6"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/metadata.json": {
+    "bytes": 649,
+    "sha256": "38d80050f5636e492ab8833d2568d43b3b39d8675ccc2e5a11598d9b22d78e51"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/seeds_degree_01.csv": {
+    "bytes": 35,
+    "sha256": "8aaf3b477eb29ffad498abb3dc5098dd068e1c615ab76d1de37fdeaaa057a8d6"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/seeds_degree_05.csv": {
+    "bytes": 122,
+    "sha256": "61a32d886675385361237acb5ff53605e3bbc55cbc32820c9592fac3b13a2dad"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/seeds_degree_10.csv": {
+    "bytes": 228,
+    "sha256": "ed05ea4d1316ae9baa193b98e1cf0ded371adaf7c4fc0adef0643197de4c9ec7"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/seeds_random_01.csv": {
+    "bytes": 33,
+    "sha256": "d29329ca427cc44e47ba099ffd40fafe7164642fdfb3589beede830c28c49ab6"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/seeds_random_05.csv": {
+    "bytes": 119,
+    "sha256": "a05d2b673f628fd1b402c16330fecf089df4422bdc633b0dc52a32dd1b2cbb84"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_00/seeds_random_10.csv": {
+    "bytes": 226,
+    "sha256": "5b1395fefedfd254a18f573c310ad74942fc203a2d8d4ed56a095751923e958b"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/edges_a.csv": {
+    "bytes": 12935,
+    "sha256": "7f7b2944306d21c5a38be397d35318477fcee5c6b9c0316c20fbbb924fff439c"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/edges_b.csv": {
+    "bytes": 12911,
+    "sha256": "87d9b7e694e8d793870ea61b8b67e34e1a3e96c55f2b71aca3392fdc70f8b742"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/metadata.json": {
+    "bytes": 649,
+    "sha256": "1c7cd6f6d2a8f72032abbd69127022777988702c021d3b801ea5ede4f71d341a"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/seeds_degree_01.csv": {
+    "bytes": 35,
+    "sha256": "f3f7b68c1d77011835e5838888dbbe7ee89b027fe4c1dda32182465a9ea1916f"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/seeds_degree_05.csv": {
+    "bytes": 127,
+    "sha256": "12f38186787cc77622cb3cc673b276d6e1a71a360f400a7ac450592190ff3b8a"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/seeds_degree_10.csv": {
+    "bytes": 237,
+    "sha256": "819d95f852f160b5a2eeb282e44b885ef5091f3394fda451d39ab6570b45934c"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/seeds_random_01.csv": {
+    "bytes": 36,
+    "sha256": "a7bb5bc150c007f1c9f57d35cdfd6dc24877a653991e6b90d2e230163768f72d"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/seeds_random_05.csv": {
+    "bytes": 116,
+    "sha256": "796805188740dfd7d65f93fcc0bcb8c4d53ea09cdf7cb0f1d295c501f3ff0b80"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_easy_01/seeds_random_10.csv": {
+    "bytes": 229,
+    "sha256": "4512d80dbcb50bfd21e397bf7bda5fa556fd4c40606b28fa26b3995aea732db4"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/edges_a.csv": {
+    "bytes": 46233,
+    "sha256": "ca71e86410d6c71fa31c4bbb9697a1c2d498954e4f4748a767c3851d10af9287"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/edges_b.csv": {
+    "bytes": 46372,
+    "sha256": "ef70b89d846c08a10a344791e011a2a2290d9d06d5ae54f9836213ce4c00d072"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/metadata.json": {
+    "bytes": 655,
+    "sha256": "0466c1b23ef3fb134af190a038a1d170b294415066bb623e57bd0475b5d7c092"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/seeds_degree_01.csv": {
+    "bytes": 91,
+    "sha256": "7dd1eb79e51dcb3158c1a23551ffa6579f6895540992be2545da615ad24cad97"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/seeds_degree_05.csv": {
+    "bytes": 399,
+    "sha256": "2753ee74c1573ad057a8ab3dd4890f2d70bf08ba52a02ddd1b4c90dcd5a12696"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/seeds_degree_10.csv": {
+    "bytes": 786,
+    "sha256": "7acfdcfb257dfade59142058a1d64643a07edc124f8ff4f49aee08ba64564f4a"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/seeds_random_01.csv": {
+    "bytes": 92,
+    "sha256": "6fc73bd401f1a7268dccbc61a3dfe9f7d3bbcbaff4ba12208508ae9d3dca690d"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/seeds_random_05.csv": {
+    "bytes": 403,
+    "sha256": "5318b8e149cd7ea1655d1c31837794430d16a16f5872d2f6df662dde4ed3aefb"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_00/seeds_random_10.csv": {
+    "bytes": 797,
+    "sha256": "e1770a08f4676a13a63b71e3c239b5e39e5b566dc0ee6d03b1231314935ed5fd"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/edges_a.csv": {
+    "bytes": 46176,
+    "sha256": "eac0dc1118cf129b8b7a5646d5b6f11e0b32e10470bcb5db64710173fa86b13b"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/edges_b.csv": {
+    "bytes": 46561,
+    "sha256": "d3c2f86b5d4d064e9fbaaa37f2ad3d1fdc7f1280ce173ee1e0a77f7fbd2fa614"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/metadata.json": {
+    "bytes": 655,
+    "sha256": "98b46507f080648ab8e7cf0f1d02db1de9db34ce1546718228e819913b0cef20"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/seeds_degree_01.csv": {
+    "bytes": 92,
+    "sha256": "c62c3ea99b005ec87a5ded95e7867505e748558f0abb4a90ab1e9eedf0c98fea"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/seeds_degree_05.csv": {
+    "bytes": 398,
+    "sha256": "883b1241b2961ef46124e1124704abe80e9fff0f51e614941082a82687a56cef"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/seeds_degree_10.csv": {
+    "bytes": 792,
+    "sha256": "c1d9230d8659f6603da2659f60d8fd49225949c92b95f8ba7a33089d08e2a19d"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/seeds_random_01.csv": {
+    "bytes": 91,
+    "sha256": "fb4012d95bee71e54ffcc8d2ae72d6f7ea9f8120d33654c0e19d216c4086b1ea"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/seeds_random_05.csv": {
+    "bytes": 400,
+    "sha256": "00eaf0c6751abb48aaaaf560fadd639108e0a9d015af9a8a3570759ba6fdf898"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_hard_01/seeds_random_10.csv": {
+    "bytes": 790,
+    "sha256": "07f901a4999ee9d655c1f71002dd18bb98f29232ceba20048baf8a8e34b13ca6"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/edges_a.csv": {
+    "bytes": 27105,
+    "sha256": "5e8de5f586a742bbb429ecb0a7e99c0d18b036bff94704c60e3f3d5744065a0a"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/edges_b.csv": {
+    "bytes": 27110,
+    "sha256": "7cb629d566eaad789e2dc94e7dca39b4cd1a4d870fafe75421625754e9773908"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/metadata.json": {
+    "bytes": 652,
+    "sha256": "17aaf4759626b7dfb33f669321331348ef71524537bbea843b953d7829e851b9"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/seeds_degree_01.csv": {
+    "bytes": 59,
+    "sha256": "204e752482905c0f6e69c66b374668a3a8b0bf15a7f7ebfe155845fab15f3ace"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/seeds_degree_05.csv": {
+    "bytes": 240,
+    "sha256": "975a38def0f006a2feac80f76079e480e07e4238d0ba7a95e2deca1d137b8e89"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/seeds_degree_10.csv": {
+    "bytes": 467,
+    "sha256": "f9b30d48c5b28b92464b6dafc47fe1e7624644a38779102a8a8e7b2da2be627d"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/seeds_random_01.csv": {
+    "bytes": 60,
+    "sha256": "e4f5630e5ac55538ebc3fbde47112763bb1675a2a7a7781f1316ff6cc04f2517"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/seeds_random_05.csv": {
+    "bytes": 239,
+    "sha256": "99810a1a31b50e97b1f2c68331006e53e2047b8facae43e4b90c36a89508cfd7"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_00/seeds_random_10.csv": {
+    "bytes": 468,
+    "sha256": "a6201c84f25ebbb211fd099e425677690059a4c5c167deb22bafc38fec36d117"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/edges_a.csv": {
+    "bytes": 27010,
+    "sha256": "b1acb4cb4bc2377ee8044b1db14cb1eb5ce2bd27f21ffa4e3b96869b5603e12b"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/edges_b.csv": {
+    "bytes": 27172,
+    "sha256": "76ecfeb63f0c9a01ff1346ca02dea11f13f90ccff50417dbd7dc8150e601b856"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/metadata.json": {
+    "bytes": 652,
+    "sha256": "9a90153b1c5653d766ae31a063a99904af62bcb0332ac651a615ef71b9feac7f"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/seeds_degree_01.csv": {
+    "bytes": 56,
+    "sha256": "3d200264f26b8456edd7f98288534cfc23def1f933d0af083e71ca09cd1b68a1"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/seeds_degree_05.csv": {
+    "bytes": 242,
+    "sha256": "7aab338dbac2e3a61c6db51d7d45bee5492a0624655c884d5e011819b797e98e"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/seeds_degree_10.csv": {
+    "bytes": 473,
+    "sha256": "df6d6f9ef8eb2f64ca6cc5c46da9457b525bfcec3a7394743148dfd1e0395609"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/seeds_random_01.csv": {
+    "bytes": 61,
+    "sha256": "b8f61a91a82ed950a3e85677f74c2c035ebd640a0838cfca3af5920209c33155"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/seeds_random_05.csv": {
+    "bytes": 241,
+    "sha256": "5bcfe47e3a7b94d3c1c9a2c27f20eb8a86da67f82e43e47a7e5a2bed27b54b82"
+  },
+  "01_seed_based/student/seed_based/test/preferential_attachment_medium_01/seeds_random_10.csv": {
+    "bytes": 472,
+    "sha256": "cbe5f6a8b6417a034b92b16c5d4e1532a9fd66e9e6984cae7e39d68ab9f83df4"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/edges_a.csv": {
+    "bytes": 18728,
+    "sha256": "bc069eba81476704f58f7fa205b1f9f083da3a1ef6940733a869f6e8c9bf58c5"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/edges_b.csv": {
+    "bytes": 18768,
+    "sha256": "46c32f179692068c085efb568f2f2f38247775a840776075b408fba34c2f376f"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/metadata.json": {
+    "bytes": 635,
+    "sha256": "a5501e6aabac73a8f9da7ac3f1090a4b908022c3308cf563efa48cf6439d9441"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/seeds_degree_01.csv": {
+    "bytes": 33,
+    "sha256": "973994b816b2b6a2cb043f990c4f600df6afe638de769f3b9cf3d7fef2981336"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/seeds_degree_05.csv": {
+    "bytes": 120,
+    "sha256": "1c607ebf887a1ee810346c132d28552306a27780cddd91097d7da566b656c63b"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/seeds_degree_10.csv": {
+    "bytes": 228,
+    "sha256": "a8171c1b045a5a1656886f3f87e87b9bd5f3b225cf6b5e747f3b85fa9ea6df69"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/seeds_random_01.csv": {
+    "bytes": 37,
+    "sha256": "bf77e2e902fffdbe0d105335c2ad0431f48eb415bc28455edd2a0235d076195e"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/seeds_random_05.csv": {
+    "bytes": 126,
+    "sha256": "a59de96a799abe1cceb2ee89fd36dc508c0b9e78e0cc1ade58cae748bf920d08"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_00/seeds_random_10.csv": {
+    "bytes": 232,
+    "sha256": "6129bee7bce5f81141703f6ec6e0acd7e3351daf729ffaef43ce80be483db7f2"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/edges_a.csv": {
+    "bytes": 19720,
+    "sha256": "5555bfbbcbc6b45856f98ae0cf0216e1791fa11040a55788f6e3f71bbb24187b"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/edges_b.csv": {
+    "bytes": 19660,
+    "sha256": "8330b9c756cf5cb53777ee14363506efc6aaaa42ecc2cc7e259384b254b9dca3"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/metadata.json": {
+    "bytes": 635,
+    "sha256": "c0db64c6ed53130e42faef43083afdebcb3e6adf4539783917654e71c6a49d39"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/seeds_degree_01.csv": {
+    "bytes": 33,
+    "sha256": "2e5ea2a5d7749ef060e1ea6bd56c158049cd7a2c2fdc15610060781e201563c0"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/seeds_degree_05.csv": {
+    "bytes": 122,
+    "sha256": "d92e0ebcd91704c286fc0fd19399d854552c7c760686fe5f5563ac9655f5e17c"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/seeds_degree_10.csv": {
+    "bytes": 224,
+    "sha256": "bd8ce40418cbe36b9471429dd3735a4ca4caa14732a8d65fd78731f5b65feb5c"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/seeds_random_01.csv": {
+    "bytes": 38,
+    "sha256": "4420a68a27ab4961591c9ce367dcb887f746f8e01d0c943178c056307dca2e7e"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/seeds_random_05.csv": {
+    "bytes": 126,
+    "sha256": "67e23ccaf2396b707935101d475b2c42e0b2ffcdbc19ab026894a4b0905cf312"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_easy_01/seeds_random_10.csv": {
+    "bytes": 234,
+    "sha256": "97e1829dec6a2dbcddbee7cdde6d79ca4fed395478c3e3a7d26a9f6b641bdcef"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/edges_a.csv": {
+    "bytes": 233744,
+    "sha256": "c213778ea4b36bb07dede1def78e82f76c2213357205060d84880b6e1b978928"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/edges_b.csv": {
+    "bytes": 233719,
+    "sha256": "2d4ddd4deca1ea67b63dbef82e89720c0d2605d7920cdb85e6d0c4c1782bb106"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/metadata.json": {
+    "bytes": 640,
+    "sha256": "124ba339f9ba9dd2b42b265e63c4a722bab29842c0f2a97020b92dc073a2e704"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/seeds_degree_01.csv": {
+    "bytes": 93,
+    "sha256": "22827cb4fc5c5152ad741ad857c45255709143a483d48b1cc42e8b30ab5f10a6"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/seeds_degree_05.csv": {
+    "bytes": 406,
+    "sha256": "185be2684b896676df4ef81c43dfb95577d817f983150a93a06590fb2faa6e2a"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/seeds_degree_10.csv": {
+    "bytes": 785,
+    "sha256": "83964885f7ee4d11ece26585dbaeda7b2c762792b37c88ea8b83f1c49565dc8b"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/seeds_random_01.csv": {
+    "bytes": 91,
+    "sha256": "be60d192d08be9303b80f42311c75b16819da6293e0e57162733c3592ff1b908"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/seeds_random_05.csv": {
+    "bytes": 402,
+    "sha256": "df8dfc291769eac63cc20c9e985490b0d8b6c1907f0fce9e15730f2f669b2113"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_00/seeds_random_10.csv": {
+    "bytes": 792,
+    "sha256": "cd62b24a90b6c1a9a1ae60b4f09982babc1a84b7c1288719621d9a6939f60a14"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/edges_a.csv": {
+    "bytes": 231333,
+    "sha256": "daf39b66751c37e022f046e6671427558387d93c6dc240025d295727edc9cc4a"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/edges_b.csv": {
+    "bytes": 231466,
+    "sha256": "b62f2cfce1c9f06f96395c8ce3cb8f26c72417ff15268262984443b8632d5bc6"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/metadata.json": {
+    "bytes": 640,
+    "sha256": "16604dec6ed5c2bcf7ade5fd8a803beeddb76c8b138f0e2029afd080c1e5de43"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/seeds_degree_01.csv": {
+    "bytes": 92,
+    "sha256": "00bf14b879f6b0d0ee18e7e1497d53281030e9fc1067dc0abffbd136554b099e"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/seeds_degree_05.csv": {
+    "bytes": 407,
+    "sha256": "f1df24524e2bff2eeb09c0384d1e7f42eb325fc687c3917afb83eaa7a0aaa49e"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/seeds_degree_10.csv": {
+    "bytes": 791,
+    "sha256": "a8d54298cbaea98ee0d35ca717fd34a729ec1d2c4200d79a580f5a4af51b8859"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/seeds_random_01.csv": {
+    "bytes": 93,
+    "sha256": "700bde4937d5e429f10b8ef0733e3bbbdcb7b376886b16c62ee283ac900bfd7a"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/seeds_random_05.csv": {
+    "bytes": 405,
+    "sha256": "08dc7b86fb27c29dce350b6f2cd009c770a9b9b395fb50fe98ebad284747c954"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_hard_01/seeds_random_10.csv": {
+    "bytes": 794,
+    "sha256": "f640c38cd566d36b3f0131351e202624ef6045c3800757a95acf0344af6a1d96"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/edges_a.csv": {
+    "bytes": 83156,
+    "sha256": "4690da78f5612d5ec23c3efde2f11a87864cefa759b249578653203a79f416bf"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/edges_b.csv": {
+    "bytes": 83120,
+    "sha256": "0107ed1c1392909703775842352dad889ffb7505f1e7bf46ca48d550af5cf09b"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/metadata.json": {
+    "bytes": 641,
+    "sha256": "50b1ee004446c677070c72a1f5d605f92c6463b66f9bd8e8889f44b9d11fafd8"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/seeds_degree_01.csv": {
+    "bytes": 60,
+    "sha256": "f1dc1be6e18ca16a64c016760b87d5e83b617184cf81532787422e6ff15ac5c6"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/seeds_degree_05.csv": {
+    "bytes": 241,
+    "sha256": "b6c1a4cc63ff483b3975cb616e41c48258e3b4b0b931fce61f5bfd512b856711"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/seeds_degree_10.csv": {
+    "bytes": 467,
+    "sha256": "759d1b35547f98213028c44c27686304ebe34bf7a5d6ecc226df8efaf4bfd649"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/seeds_random_01.csv": {
+    "bytes": 57,
+    "sha256": "87e780fda0a168ef39b13b0a1920ff28245f6d35acbe36c92c85121c04891553"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/seeds_random_05.csv": {
+    "bytes": 239,
+    "sha256": "235a98bf2c0337d943d7567cfa33c7aacefd7dc92f8eb7cd5b84e2ae2b66c44e"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_00/seeds_random_10.csv": {
+    "bytes": 472,
+    "sha256": "c17a8e69ac66065581d81a4d494f0f56390c9b6226caaa27f3704dd9026be93a"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/edges_a.csv": {
+    "bytes": 81197,
+    "sha256": "40b6a116db25355dd39ed889b0e7c32ef432c07299bb5e761462c4c509c324b9"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/edges_b.csv": {
+    "bytes": 81120,
+    "sha256": "a8873ba491397c3184a270a891277176a2605bcc43b41583ba56aaa35cd70334"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/metadata.json": {
+    "bytes": 640,
+    "sha256": "940b4ed9449f89760ce578fdd270019b3e337ba5c8e6511b012b08494c483307"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/seeds_degree_01.csv": {
+    "bytes": 61,
+    "sha256": "82ae86b75a95c39f746884b97e2ceb9ee794ad7344807dbc645786dc0433b67d"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/seeds_degree_05.csv": {
+    "bytes": 246,
+    "sha256": "679eec62057e02dc57c2fbdd9e2ef92427047dce23d1b37665a1b4b537962ece"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/seeds_degree_10.csv": {
+    "bytes": 470,
+    "sha256": "ff015d86aff5a4d9ce1b07a344cbf30e0862e9ec34448226cb72f7fd707ffb94"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/seeds_random_01.csv": {
+    "bytes": 59,
+    "sha256": "fa4bac67f97b6037a35020c11a9f89bb051aa87e35b7dec3ff2faaa68cb8779d"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/seeds_random_05.csv": {
+    "bytes": 245,
+    "sha256": "4d27b82785b78820c888dd439e9ff2f5140bc9b7b208843eba5eac4a1504ad02"
+  },
+  "01_seed_based/student/seed_based/test/stochastic_block_medium_01/seeds_random_10.csv": {
+    "bytes": 475,
+    "sha256": "ad2c7f4253ab3f66ec68e095fecb65bb60e1fd021b351c1442a72a70a1acb163"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/edges_a.csv": {
+    "bytes": 19582,
+    "sha256": "ca5784df894fb42cdab1e1bd29d9130ce09279e42be521620dc00b66fb3da38c"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/edges_b.csv": {
+    "bytes": 19670,
+    "sha256": "a82ddea6c9b311f2a6ddbb3bea1cbcb78ceae16e218035265de63a52ff7e25f5"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "b3f495a5eed77e5f4cd46ddfd0012c7c2b0c008baef7b86fd8664714a314701d"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/metadata.json": {
+    "bytes": 626,
+    "sha256": "af532fa99ac472afecb0027dab768e1beb372653efd11b53d4175d16874b82aa"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/seeds_degree_01.csv": {
+    "bytes": 33,
+    "sha256": "3475eb1b57d0586719d602e7ebe8e9ac619d330d51c1c1d16c2f9124d7b5edf7"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/seeds_degree_05.csv": {
+    "bytes": 118,
+    "sha256": "bc48027909094a0f57a432ab6bfcbe82240e46bde49faa158c852b593b4f964a"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/seeds_degree_10.csv": {
+    "bytes": 229,
+    "sha256": "4eb880338e4e6a978cdbc6ea7c7e267af310fa55cb6f0fe24f8cccc5996f3144"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/seeds_random_01.csv": {
+    "bytes": 36,
+    "sha256": "3e423ae02b960b69f6381389be7c86f67ec598bc930f39f54a8b96189c16d57c"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/seeds_random_05.csv": {
+    "bytes": 124,
+    "sha256": "7157717d801300bfd6a4739b1b97cafeb0a57385ff23ee53925800c1d69cb1bf"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_00/seeds_random_10.csv": {
+    "bytes": 237,
+    "sha256": "5ec8020fd98781259a5ef70c69a5413c815d04e104d9b31d77efa43560a90f1d"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/edges_a.csv": {
+    "bytes": 20190,
+    "sha256": "5767c979f47a519d14bd6bc14180b2d0091e2c049e05ba43679aab41813de172"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/edges_b.csv": {
+    "bytes": 20150,
+    "sha256": "c150c93051f52cec7a7cecbb7badd166baaca373ebfb04e790fb023fede70050"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "6e4d77107dfd04da04a7d8bae2b5b8b0612aff1a49e5bd709f5356c93f68eb96"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/metadata.json": {
+    "bytes": 626,
+    "sha256": "a18832bdd211c7d73ef3e55f9dfcb215d450dddb82a1590656e327c17026601b"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/seeds_degree_01.csv": {
+    "bytes": 36,
+    "sha256": "b969c45d6cd318a5b1d97cd7d8ffa16beb770a665253dba8a4575604e2807e5d"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/seeds_degree_05.csv": {
+    "bytes": 127,
+    "sha256": "a0d33452a249f094d5b07caef0067f12d5eba0e315d3952bdc96918beb902915"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/seeds_degree_10.csv": {
+    "bytes": 234,
+    "sha256": "e8e62ba60d356b530501afaaa492e7e87300556733695214f86ca9f9f7eb0a8e"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/seeds_random_01.csv": {
+    "bytes": 36,
+    "sha256": "c008e46d89986a0d8361e1ac5344b71dfcd75d452a8b93dbb4fe0e730ddafd2a"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/seeds_random_05.csv": {
+    "bytes": 119,
+    "sha256": "b80a5a0d6fd2343766ea70aee5893196053443ef1bd73067e0d4d2c800bfb5bd"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_01/seeds_random_10.csv": {
+    "bytes": 225,
+    "sha256": "177fdceb076d20b09a781fb96e00affbe801b192b69bdeb64a0bcd2dfb0333db"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/edges_a.csv": {
+    "bytes": 19484,
+    "sha256": "340aed248ed9e321db1701bf777da1dbe9ed6e9ef69953068159c75a6e3a18f3"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/edges_b.csv": {
+    "bytes": 19425,
+    "sha256": "c9baa722139c9b230e8f478bfece9845ce1bbb35171e7996d0c71bf34d53d41e"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "3dfae4ca6b5201a9e1bcce075ce203071fc27d10c49ce9db9fb7cf3c267eeddf"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/metadata.json": {
+    "bytes": 624,
+    "sha256": "45789a3aeda34eca3197225e44c41b75488e400dc30a917cca73e83849591c97"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/seeds_degree_01.csv": {
+    "bytes": 37,
+    "sha256": "2fdc9bf1786cafc2d6b138043e49778084df4cfdaa39ffc2b6a62c50eda421d6"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/seeds_degree_05.csv": {
+    "bytes": 120,
+    "sha256": "6da0137a09ad8ed5ef289938e3be185dd8125af88cb8c3149e8ac632d6fee79f"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/seeds_degree_10.csv": {
+    "bytes": 228,
+    "sha256": "a5ecf28b1ce994e7f92a7a3421aaf4f33dfc6280d06070affd1659d6e987ac1c"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/seeds_random_01.csv": {
+    "bytes": 37,
+    "sha256": "d7d515391d3e8c8c3ed0aeac882a2339fdfdc61db45ddad3f11e8292223e2a13"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/seeds_random_05.csv": {
+    "bytes": 125,
+    "sha256": "8cc694d01527707897f151e5bb803b52ccbb6500a4881c16b1d17f7765bd8fce"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_easy_02/seeds_random_10.csv": {
+    "bytes": 233,
+    "sha256": "d6eacd550fa73f2b303aa8170f60271bedbd240d2868ce5e7e102fba72e88815"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/edges_a.csv": {
+    "bytes": 232309,
+    "sha256": "8980bc67b29408b9db6bfd0aee5e008238a83ad619a1884057232c30b5ee9c2f"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/edges_b.csv": {
+    "bytes": 232228,
+    "sha256": "34fe33743ba5e0f6e1d5c595a61f0a5e7aa9e03a73e5f40f630b633ad452a9d8"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "d8d1679c665bc74363e4b453cbe8787dafce16c0d1d5ec36a2d667d225be0d11"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/metadata.json": {
+    "bytes": 632,
+    "sha256": "8da7bb6e2556263b84c0852a886ff3ad8a5b51f01861a28e9371e172ce3a1d47"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/seeds_degree_01.csv": {
+    "bytes": 91,
+    "sha256": "9d3b57458596e282b28ffce79818c3796b4913fec413c2af18a4f5fc3816d3f6"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/seeds_degree_05.csv": {
+    "bytes": 402,
+    "sha256": "67cfe9b3b57595d523d3aedbbdf34ee527a2e548a983d85ba72408c34eb29a77"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/seeds_degree_10.csv": {
+    "bytes": 788,
+    "sha256": "dca1b8b6ee2306ee0b2be908cb7e3c1e7a0f3033f3b442efd21b987e5de3ee8e"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/seeds_random_01.csv": {
+    "bytes": 91,
+    "sha256": "08da1e6ed4fcbc5223186c345010dd5d4c5c8f822e0291e8ab3a8169d4377a7e"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/seeds_random_05.csv": {
+    "bytes": 408,
+    "sha256": "f0239a6faa510752ee6efd93fede7b8c5881f168cfb1ab4134bff020f56867c7"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_00/seeds_random_10.csv": {
+    "bytes": 799,
+    "sha256": "0e9d883f43a3caefb980d1e48378a7c3f30b2812e31a56078a3229ca5107e41d"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/edges_a.csv": {
+    "bytes": 234935,
+    "sha256": "21ad640eeebda1c0c52bd2da38c9a28c23b9c27fa64c2b4ce887541a5ac33cbe"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/edges_b.csv": {
+    "bytes": 234952,
+    "sha256": "5101934a796368c9ee51222482ccce6e1024efcf203bae2b0c6bb2642c90f2fd"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "7091d073f2fab8f90af42779f0fa338d39494eb07403c009578a135fff01cf0b"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/metadata.json": {
+    "bytes": 631,
+    "sha256": "c3c5b424e036e937748d285cb02c48ef4924742aa36a4ef7aaf583996afe88fa"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/seeds_degree_01.csv": {
+    "bytes": 92,
+    "sha256": "c33ef027fa5778fa04d6caa57a96d77a254d0afbb7aae190575a39fbde8f8332"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/seeds_degree_05.csv": {
+    "bytes": 402,
+    "sha256": "a398717bd71be6362a75f9c21d57532b2e4161941c4e30a5d75e60a07ffa95f2"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/seeds_degree_10.csv": {
+    "bytes": 792,
+    "sha256": "bac7c1c426a2d3ace2a2b8aea224e798e82125000aa9ccd8d33e74bbcdd1c0ae"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/seeds_random_01.csv": {
+    "bytes": 94,
+    "sha256": "850de55ae9307cafe0cc0f0a35e57abef746005fd5e168b87eb653a51025c515"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/seeds_random_05.csv": {
+    "bytes": 406,
+    "sha256": "2c46762030d5015418afdcb963b3cb4a66c477efacdad880ebfc74cb6cf04514"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_01/seeds_random_10.csv": {
+    "bytes": 792,
+    "sha256": "c66184c549fa5f213f70ff549448baad39a672411ca02429fa53ba628d94e7fe"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/edges_a.csv": {
+    "bytes": 234443,
+    "sha256": "3b4dc6660d6b5992fbf71c6f8e63a62fdf798ddfca952369cd4d104b7e03d6ae"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/edges_b.csv": {
+    "bytes": 234474,
+    "sha256": "f5a9518e81059281748c0cf25f846fb5bf65c9081ed56ab4eee90006cd34166b"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "b01d084546bed0d51af698d6ba98aa0a3170e1c337352de9e90de6ff01ff9698"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/metadata.json": {
+    "bytes": 631,
+    "sha256": "44eb1194a504001fb9bd2e668aa224e33a233b2b69b06b1540e49ce485acf2ae"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/seeds_degree_01.csv": {
+    "bytes": 90,
+    "sha256": "f2951ce9c057e98f568d11c3f4cba7cd65888ccc1dd3b043ad50db62168c390e"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/seeds_degree_05.csv": {
+    "bytes": 396,
+    "sha256": "79fba9fc7144843d1cd71d3eeb9b640d027863629256d2bca3358f5dfdbe3bfc"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/seeds_degree_10.csv": {
+    "bytes": 787,
+    "sha256": "2f0a89d4518add19f837d1834f984175e6b60dfed68beca7effbe7294a62062a"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/seeds_random_01.csv": {
+    "bytes": 93,
+    "sha256": "2b6364f2e90bcf92b5390a0ce442c3a153afc7cac87b445a90f6042b635eff24"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/seeds_random_05.csv": {
+    "bytes": 406,
+    "sha256": "08cc34bbb23aff307ab70901fe9d23faebb0605a0abb3338c8eef7695f51bde6"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_hard_02/seeds_random_10.csv": {
+    "bytes": 795,
+    "sha256": "9ca8c31bd94ae91312a8858eae0a738008ebe95373ba3be959ac906cf941c724"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/edges_a.csv": {
+    "bytes": 82977,
+    "sha256": "c3e58f358cbb61d1fef7aa8b7a2ae81fd98338114c9da48667cc908bd201b7d9"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/edges_b.csv": {
+    "bytes": 83059,
+    "sha256": "2dcb0e6c681c7d2505bcb60ec2f1f83ebbf2b13b9f38365e279b55e2b51efc0b"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "9fce3375eede559a2e5f216a28700ffef798db08e6cbb35eed2b8b885e97e872"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/metadata.json": {
+    "bytes": 631,
+    "sha256": "0cbbc8bf136bd967ba255cb93b2dc69d77d8a1080c0f1466bd468dabbbe8c9d6"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/seeds_degree_01.csv": {
+    "bytes": 59,
+    "sha256": "8f154373e97f635a106cc7f295ae982b0fdce2fb7e24738dc21da0164fdcf1ba"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/seeds_degree_05.csv": {
+    "bytes": 243,
+    "sha256": "1ebcc758ef3ba6b08287c3cb8eb41ddf30b1d49407228eed86914d5ca9772095"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/seeds_degree_10.csv": {
+    "bytes": 473,
+    "sha256": "652ddb4e6a63b0811064cc69083546a362e2c3ac082bc354107d295e5b0ea95b"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/seeds_random_01.csv": {
+    "bytes": 59,
+    "sha256": "7654619f9b19386980a5565d18e3193e40758a26bc5fadb2288150e9729faac1"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/seeds_random_05.csv": {
+    "bytes": 246,
+    "sha256": "c7de47826b66cc131a262b9fd5f08f55d051253fb5804b66960047921e34feec"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_00/seeds_random_10.csv": {
+    "bytes": 474,
+    "sha256": "6c9450ccd25ba93e07362565fec7d47c47ccea6c58d557262185e4f940ad8c65"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/edges_a.csv": {
+    "bytes": 82088,
+    "sha256": "5b1d63ad8db460c2e903b8e3f0bf1220307b840808588764287bb821af4f385b"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/edges_b.csv": {
+    "bytes": 82008,
+    "sha256": "b9da258fe8a1b20d0e88e9019168ce62ad630813fb1e8ccf1e4da536db9b9adf"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "d3c13d2ee543de9d44d9d88e6d34ece800d8e09ed44b55a2e4f107a4ed81d567"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/metadata.json": {
+    "bytes": 631,
+    "sha256": "648dd39f6972a4428dcdb334f1977065c90c36ec5a6e715c9561be3b1ee81ff9"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/seeds_degree_01.csv": {
+    "bytes": 60,
+    "sha256": "fffa702b20d706af4e19db271e7a4fdf12482b07d0ce1f9ff2950f26fb095f73"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/seeds_degree_05.csv": {
+    "bytes": 246,
+    "sha256": "fed82c0def3d8bbca97ddcd34118bf4fe08669abc9f7eee2c05554d7db14cd1f"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/seeds_degree_10.csv": {
+    "bytes": 478,
+    "sha256": "54219db0493d3fea8dd115e575f3e28e4b60912a4427020a25567ad3210eb410"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/seeds_random_01.csv": {
+    "bytes": 62,
+    "sha256": "cd688f09f80c02a9362d2909baab665dd575955490048a851b81e885083daa8d"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/seeds_random_05.csv": {
+    "bytes": 244,
+    "sha256": "cf3bc81fe45fdf550b799d269dec571612e52e94c1eb390a57a4f5eeafe10327"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_01/seeds_random_10.csv": {
+    "bytes": 470,
+    "sha256": "8ca126419d0f963a884d8433eba2d90f9c6e538a6b6e7b1d99e06b83b94036e1"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/edges_a.csv": {
+    "bytes": 82200,
+    "sha256": "3246b519e8e28f29f04b77e22f19b6680c46e97ee495e00e3b31dc7689498a34"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/edges_b.csv": {
+    "bytes": 82204,
+    "sha256": "1c7f0a262ca00b732fad9b1065f6d4e86ae7901d2c5b783f7a74fd9d19392c0e"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "5153922a61eae73569d325efbc3479b5d0991940c4690e09e731210fdd23ed13"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/metadata.json": {
+    "bytes": 631,
+    "sha256": "8c809c5397859aa82c1d9b5cdadc8486ae242072d8db9b5e41fe909dd21a74e7"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/seeds_degree_01.csv": {
+    "bytes": 60,
+    "sha256": "2cccc44a47aded748aac8b9c1ad5d5ae2637c5740bb0e0d0cd7efb17ef1a22d0"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/seeds_degree_05.csv": {
+    "bytes": 240,
+    "sha256": "438a077cbde40ec318b07bdce29345f6b3c029cd428a1dce9e231e13719b899b"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/seeds_degree_10.csv": {
+    "bytes": 470,
+    "sha256": "e375abacae78782a05ed3a9c079bc42bfd94e1fc1545d2682b0ba7de99fcc9d5"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/seeds_random_01.csv": {
+    "bytes": 61,
+    "sha256": "10db197a54ad2a47529a99e3565c4dcf2f48616a09cc275d4b63c6ba952d8403"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/seeds_random_05.csv": {
+    "bytes": 243,
+    "sha256": "28481f6b74c022b1bfc1a05e4a22fd2325629322369464de5264dec70af67760"
+  },
+  "01_seed_based/student/seed_based/train/erdos_renyi_medium_02/seeds_random_10.csv": {
+    "bytes": 475,
+    "sha256": "5680589a10f02144b325327ff5a9a20b23dea41595019e44c81fb0dec5c5d1b0"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/edges_a.csv": {
+    "bytes": 12918,
+    "sha256": "e10831be2d8a326efc194f1c2b4e4ca4d8fc5f59052a9d528dd6eb36f606b918"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/edges_b.csv": {
+    "bytes": 12803,
+    "sha256": "f20b79d757cdbbeae7b60aa180512ca6ff49efc23300ea9ed462047bf0f80553"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "158ad07519e51d15e7602f76222b966584c13f12e5ae868e0681f495be038452"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/metadata.json": {
+    "bytes": 650,
+    "sha256": "a7140520f050550bc5ad919d497df6dcaf826880e79f2b9c41db4cb63679cf16"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/seeds_degree_01.csv": {
+    "bytes": 37,
+    "sha256": "aaa076c1dc499d7a3720a64334e2037e1579ffe3582187d37118294241e1a261"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/seeds_degree_05.csv": {
+    "bytes": 123,
+    "sha256": "320c12c2039addf7ef08c809f877f4e0089657354e97b1cdd5e423fbf9038d83"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/seeds_degree_10.csv": {
+    "bytes": 232,
+    "sha256": "d38f209f67d1efa1299a8d182566ab75704ad5b1f70ad63cf63a0358b5c3dd8a"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/seeds_random_01.csv": {
+    "bytes": 37,
+    "sha256": "9b1ec94972dbace9fe6ed20ff6191d5aac28ba0a8f59c129060557533e34d2e1"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/seeds_random_05.csv": {
+    "bytes": 127,
+    "sha256": "fbf5de48f341b480a49b84fa893843a6d3e7045c91d2abbb2d95f5b85d3d9e68"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_00/seeds_random_10.csv": {
+    "bytes": 235,
+    "sha256": "e3342137d8a8a0686ec4a68804eb73a16f0480034311896e81ed477dbc27caad"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/edges_a.csv": {
+    "bytes": 12805,
+    "sha256": "1d568ecb1228ba9d57f3e9ff62d4ebbf76515cf9d5f750ae9da8a61e7c9f3752"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/edges_b.csv": {
+    "bytes": 12856,
+    "sha256": "8fbaf617a9606e3c31f163817619b2f76d129117b7a506fb4606e0ca468cbd55"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "1ad25656ece8dd749de3af5336824f7373ac399d9286b001c6995d4956735042"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/metadata.json": {
+    "bytes": 650,
+    "sha256": "b4d6708f9b56b9e5285f660cd9a634b5640300ac8322720445e24c6e9f2be2f7"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/seeds_degree_01.csv": {
+    "bytes": 34,
+    "sha256": "b39a2a12ad1d6c4cece21acfcfbd195f76a86b790b5c91364f4b099ae5ee1a59"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/seeds_degree_05.csv": {
+    "bytes": 123,
+    "sha256": "15f856b71b61c1edc8ee8431f66976e1a53469c27b3281702c09a65084464c4f"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/seeds_degree_10.csv": {
+    "bytes": 232,
+    "sha256": "36f27434a180d88bdad8e066ac0af4235f77fab948df72e2ff81ecc80affbb63"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/seeds_random_01.csv": {
+    "bytes": 37,
+    "sha256": "fabc3cba3234131c4ef55491d280c816cfa3f9d6c75a3ef054250c8fba8d8822"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/seeds_random_05.csv": {
+    "bytes": 125,
+    "sha256": "22e5eba78e51fbf796175657bd7b1af85f07a6fb50cadb9f41491d478f1d6b3a"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_01/seeds_random_10.csv": {
+    "bytes": 236,
+    "sha256": "71e02bd037fccadb651fda613e01f40906e4ed2150d7298e1a8856c08eb84f52"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/edges_a.csv": {
+    "bytes": 12935,
+    "sha256": "2771d69fa79b466f8d4df952565af2f0bc5f7a39c8368ae0480c19f62a384b53"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/edges_b.csv": {
+    "bytes": 12893,
+    "sha256": "80d6647fc7a5413a9b1b929382627264be4f562ca5959608adcf488b7c3aefe8"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "75e04c21d4c4226d86a0d40e0c91ebeeb71716ba7b41a03266fa545010395614"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/metadata.json": {
+    "bytes": 650,
+    "sha256": "a862fe0c09e3f5641b52e1f2ddb2225764ce5824a89c54b057235fd763f4d0a4"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/seeds_degree_01.csv": {
+    "bytes": 37,
+    "sha256": "f847bfae675caa1c771df2560ef5fef61144013cf39f6be87f24b830c2e388a8"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/seeds_degree_05.csv": {
+    "bytes": 124,
+    "sha256": "52fd6b9363aeb90635eec833c8fb7231df8be72248db3fcccd1a3d9b16c93a92"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/seeds_degree_10.csv": {
+    "bytes": 236,
+    "sha256": "1e0b1dde2e12ccdd343019ce6c11c58667bf4957810318128df7c652b00dd088"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/seeds_random_01.csv": {
+    "bytes": 35,
+    "sha256": "2be6dc994776cf83f1c6c686b9f7e15e149faebc47364a78ee8359221c441d6c"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/seeds_random_05.csv": {
+    "bytes": 122,
+    "sha256": "0b5632bdc41ef318ec0cac6e9d87a60ae572b0b02263005c6202b272f32a3d8f"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_easy_02/seeds_random_10.csv": {
+    "bytes": 231,
+    "sha256": "763c06b06e59c59e35f94dc72c2d597329d345b3789f63252f7808442aef5699"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/edges_a.csv": {
+    "bytes": 46341,
+    "sha256": "cb58dc1ba79777071b7522265c91da9bd06b065f083063b9c4a8a047e5eecf67"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/edges_b.csv": {
+    "bytes": 46464,
+    "sha256": "5a6c3949773904a863b5c2c6ddd5571706326781d17000132e454de8fac2f040"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "6a071dd405d26f2118bf3f21588bce5716beee186791602cd941f1642945a474"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/metadata.json": {
+    "bytes": 656,
+    "sha256": "cd4d9859235795ff4b0ca8a3d1de73481369b5b13ed99f2520c520a9c88a1d1d"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/seeds_degree_01.csv": {
+    "bytes": 91,
+    "sha256": "98d6c40304ef223be2beb0246b3d531c3986187c9e5df06ffb72ee474ceb7f76"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/seeds_degree_05.csv": {
+    "bytes": 404,
+    "sha256": "c805597fd20648c3cb23e4e5519eb7cb7d00b46c0d573aa2b9719f19ccc2c410"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/seeds_degree_10.csv": {
+    "bytes": 786,
+    "sha256": "16709cb1a6647640ba46f0779e15dcaa031071c7d8a0bbbb1d76f5189077e9a3"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/seeds_random_01.csv": {
+    "bytes": 88,
+    "sha256": "76d467ff72518e324b554ec49ad4925b7e84dba019cc6eee225a0d1f32f627db"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/seeds_random_05.csv": {
+    "bytes": 401,
+    "sha256": "4b70546cbbe35d8941ab1573e0a5bf247ef77538c05865c952d16e7e25382204"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_00/seeds_random_10.csv": {
+    "bytes": 790,
+    "sha256": "2b69633ebf3ebb293b90a8140850ff311e2b49d260a3195ead2349616fe6d960"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/edges_a.csv": {
+    "bytes": 46196,
+    "sha256": "0863665b6c0b839a0ee2d544b4770aa874799c0c44406c96758caeece5d09f6c"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/edges_b.csv": {
+    "bytes": 46408,
+    "sha256": "6d4924c0c5b18500ae995e2e2c68b31609a3516e03d2c68fb7906113bdf44a72"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "9c85e936a73097c4a796dd14b79331f1b376b009d21520743c640a2988970e8e"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/metadata.json": {
+    "bytes": 656,
+    "sha256": "9f641106428676a5215866a8a6ba87137d1e3c292fd409b778139c0ea90f3152"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/seeds_degree_01.csv": {
+    "bytes": 92,
+    "sha256": "11844d7043fe89f87337c84a037660f362de4d71b84028bbb116a703170f8d1f"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/seeds_degree_05.csv": {
+    "bytes": 395,
+    "sha256": "4d47c59fb90f5e1d6fb15cf498ffebde2d26755ffb250ace0d3f779241a70373"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/seeds_degree_10.csv": {
+    "bytes": 784,
+    "sha256": "791a453da8e54e255370568060cf7347479bf575f64db95b4273fcf873feedea"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/seeds_random_01.csv": {
+    "bytes": 92,
+    "sha256": "337a967a1baacd62fb9c3cdd4d880e566b6c6341b473a4ae23edf88729b26a95"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/seeds_random_05.csv": {
+    "bytes": 403,
+    "sha256": "acb46cc9c0d97f8cef93a9e8371afffc19efb9e09d837223e3f2a2edffe5ef13"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_01/seeds_random_10.csv": {
+    "bytes": 787,
+    "sha256": "0f46700dc1c8adec6f4185496d58b0521a99453393fc68ba4c535fca91987adb"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/edges_a.csv": {
+    "bytes": 46315,
+    "sha256": "07a542efe1db01fa0fa752df615c86bf098f52e8ea1076c4bc9d72e2b164b292"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/edges_b.csv": {
+    "bytes": 46429,
+    "sha256": "0fb11c2a946f62e5ca7d39fdfa6a4fd627d381079448639b14cba282e85bc99c"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "d98b9245340fe5a74fd67b63ae75eb54b193bc694fb804eae4d392c090e0f59d"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/metadata.json": {
+    "bytes": 656,
+    "sha256": "1eb35aa7af8a9259cfc5db6d52e0d08cd3467cfb1fe694903b5d644c53d45a18"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/seeds_degree_01.csv": {
+    "bytes": 90,
+    "sha256": "f74f64f4daeb846d787c6b5d92bd2bed2a4ae2cd691eca4fac14ff08d873168f"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/seeds_degree_05.csv": {
+    "bytes": 403,
+    "sha256": "7baeb65180f0d35128607ff01a3dd4183e6edcb3e9802f8d7fdebe5201aa26b2"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/seeds_degree_10.csv": {
+    "bytes": 792,
+    "sha256": "1277396662ae90957142704a6fe30efdfb660724bf5434afa49ddca8539a5fd0"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/seeds_random_01.csv": {
+    "bytes": 93,
+    "sha256": "c04e019cacbf7306b8e0bc6e0bc3d2c47d2b26d5ae6eca5afb5d0b78d0f87379"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/seeds_random_05.csv": {
+    "bytes": 402,
+    "sha256": "f728c1556749bfbf0e8bdbee6edc18c5c49f475d6c81a171c0cc54be398b59f0"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_hard_02/seeds_random_10.csv": {
+    "bytes": 793,
+    "sha256": "7d4831bac4cb84a018ef1bbf3a8e36220020359e0c6111de73e9e16094916271"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/edges_a.csv": {
+    "bytes": 27371,
+    "sha256": "db3b33f3f4dbf8c5459e139b29fc51f9497d41c4e56847be8e1a33407b61d10f"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/edges_b.csv": {
+    "bytes": 27235,
+    "sha256": "0ba4f595e24796174fd78a351806662062ba7333c8ed3659dec71531540eb0e4"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "b9e74af0defa9acce60ab854dbfd41b45bd94d5c86c42df14aa14c046c5a70f3"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/metadata.json": {
+    "bytes": 653,
+    "sha256": "3ab15606e54a1a04a47f625baa4ea9bf7064751b37efd13917742437af100615"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/seeds_degree_01.csv": {
+    "bytes": 61,
+    "sha256": "8ae2546027beb059bd0dcb75582e014a9382f405080e40139833c11dad6d5156"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/seeds_degree_05.csv": {
+    "bytes": 246,
+    "sha256": "5c20365682210640afde7f0e76c83ddfdde5b216da9e6b916b9651229f114df5"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/seeds_degree_10.csv": {
+    "bytes": 476,
+    "sha256": "04e867eeb1de36018f27fa444d37f692b9a867ccd65567f28d785f26cfa3236f"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/seeds_random_01.csv": {
+    "bytes": 62,
+    "sha256": "6b60e1875e619c7e71b73bdc4f05ba4e3dde7ea03dd4a0b6c3d4fffdbde2816e"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/seeds_random_05.csv": {
+    "bytes": 249,
+    "sha256": "0911bddc3e1c0d6b86547c852b592bcdedb009ee2aedbdd6554d3e0e00b834f2"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_00/seeds_random_10.csv": {
+    "bytes": 485,
+    "sha256": "9e2d096d876288abdf2241b01f50aacfb43a29b94220717326d91762d45df8e2"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/edges_a.csv": {
+    "bytes": 26957,
+    "sha256": "d8db5d532f3b694c331bf40adf191dc0a556c920a6842f13d2b7da1216d3f08a"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/edges_b.csv": {
+    "bytes": 27240,
+    "sha256": "1868a4fedda844ad334b2eae2614ebc060900a170fddd29ca8c89b130e403dbc"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "a44a0530b1c33e10bc91d06d9dd60c42f6e4d4ca47a6e3e5070eaf70c338a747"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/metadata.json": {
+    "bytes": 653,
+    "sha256": "4b2e019b22e888b44a50725285ba48ea41eb11915159193294374afd9bdf8442"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/seeds_degree_01.csv": {
+    "bytes": 59,
+    "sha256": "8dfffcf938cbe0652e0640b5a3dbe5cf4be6a38ed70763dd6af4ccc494008a93"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/seeds_degree_05.csv": {
+    "bytes": 237,
+    "sha256": "932ecad19c6d39f566efab613a173dd4c1686ec004b96b26a1596138887cfeb5"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/seeds_degree_10.csv": {
+    "bytes": 465,
+    "sha256": "ad45f43ddbc4223f2e28f3ea1c526ce329fcb7133a9f92d44c14a9034da9cb01"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/seeds_random_01.csv": {
+    "bytes": 61,
+    "sha256": "903d9744c5902fcdbf3a972d194290ed7eb4b3a9466d6b115e3603b0303bdffd"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/seeds_random_05.csv": {
+    "bytes": 245,
+    "sha256": "f42cdcd172568e56854f1e088106a787b8775396d3bfec0de35d697466dd90d3"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_01/seeds_random_10.csv": {
+    "bytes": 470,
+    "sha256": "02f88188f84878a6c8864cfffcad675ea46b4714c3655450ad83ca09934724e6"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/edges_a.csv": {
+    "bytes": 27066,
+    "sha256": "3def0a5b64e786fda1360f9e90588f4c850f09736b771a17c44a744c4dfc1cc4"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/edges_b.csv": {
+    "bytes": 27160,
+    "sha256": "444dfad708291f5f3316e8f861eecc5f6f2b094871e84d3e1e665a445904ab34"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "3568fe35b579d62597ed42dea24d027e05bf686b367b7c482065bb51563e036e"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/metadata.json": {
+    "bytes": 653,
+    "sha256": "642c2a5a3854863fafc6692b856774338235551adeecb8ab54ec7b1816bf9ef2"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/seeds_degree_01.csv": {
+    "bytes": 59,
+    "sha256": "fa8dd42afb308a1f38b541e7ca69a2a3ab5ee723ec147202d3416653932a2497"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/seeds_degree_05.csv": {
+    "bytes": 236,
+    "sha256": "466420447782bc4761d874f5f44941d60290b442832e3e98902d3e1830f2b874"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/seeds_degree_10.csv": {
+    "bytes": 468,
+    "sha256": "beeaf9baa5423667ff50ccaa27d80e4cbbc812bfcb4ad8c072b4926601c28992"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/seeds_random_01.csv": {
+    "bytes": 60,
+    "sha256": "b40c2887f30a204014a7dcd395d57a269a51bfea8f241508d5986d963dddbf9d"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/seeds_random_05.csv": {
+    "bytes": 243,
+    "sha256": "0f032eac2d3fd94bb47a7d6b4cdb8b856e006d0a63548b43bc23e98663345010"
+  },
+  "01_seed_based/student/seed_based/train/preferential_attachment_medium_02/seeds_random_10.csv": {
+    "bytes": 466,
+    "sha256": "4fc3d7e433559746df83952e92ef1bdd6b0aedd378699a76a6f340bc7e7feab5"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/edges_a.csv": {
+    "bytes": 19765,
+    "sha256": "c2c28f920b27441cbee8a44976d32b1b37059842796ee51f31930df2a5dc073e"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/edges_b.csv": {
+    "bytes": 19798,
+    "sha256": "dae4a9f3cd51c1d89d2bd8f6a8cf30c0a2d8507c7cfd9373f0996263cda4be24"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "ee82f2430e0a1ee438284b7afbd7b7ef8d0da5a6b4029d25ae3dec16c4686b9b"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/metadata.json": {
+    "bytes": 636,
+    "sha256": "2892297bb75e570557f87722d7fed7df9511781e4d3b35560c50cdbf8cf6f365"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/seeds_degree_01.csv": {
+    "bytes": 35,
+    "sha256": "2f5d9ab1290bd77f85ce5996d8b0b54176014c1251ae9fa71cacbd7f30050cb9"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/seeds_degree_05.csv": {
+    "bytes": 120,
+    "sha256": "31b4888d91bcc2195cfd6b7ac1ef9eb49849b51aae387bef46dc661975af43a8"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/seeds_degree_10.csv": {
+    "bytes": 218,
+    "sha256": "a7df0b91ff15081d160d81fd680cd807b7b8fa92fe8343e41e1563314611850e"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/seeds_random_01.csv": {
+    "bytes": 36,
+    "sha256": "95ef7a996b9481f3edaa3a158b5d9a6175b9d6b71301fda553b63302d0b994a2"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/seeds_random_05.csv": {
+    "bytes": 123,
+    "sha256": "b6429b92abd7b7f6c98381451a36a09f90143d1a3f5735f6b8d60d72c4e75eaf"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_00/seeds_random_10.csv": {
+    "bytes": 227,
+    "sha256": "b098f383a0d30a65e7ceb75df26ebc229a9ce1df721a233899757a3e6025fcfe"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/edges_a.csv": {
+    "bytes": 19037,
+    "sha256": "16827a5736cf1c550cdbf4dce669c1954e0b197fc870ef58f3e4dd0664414c5b"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/edges_b.csv": {
+    "bytes": 19008,
+    "sha256": "61da83ca670df05fc8453086fd4c96f9fe68d11319831fa0ccf2ec613da65ce1"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "2be0ab6f7d8007f4103034e9e94e6411de2463483738b67e7d4f15754704cfea"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/metadata.json": {
+    "bytes": 635,
+    "sha256": "78bc91de16a48a8aae9cf1259300d4ddbd5cfc70209d3a90ccd9f4663954ebc4"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/seeds_degree_01.csv": {
+    "bytes": 36,
+    "sha256": "b52c5f05235ad4fd9d5398d70626933f9e362e4f43817640030dafbfcd905e24"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/seeds_degree_05.csv": {
+    "bytes": 121,
+    "sha256": "72ab64cd8134d6047eb70837a0c70e2e8afd8360fee0f01e4d6e529011b9681f"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/seeds_degree_10.csv": {
+    "bytes": 229,
+    "sha256": "f498bc9777f341f3b67cc01ad0178d1f7cf2097826661556a8fa056e0ba9b39e"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/seeds_random_01.csv": {
+    "bytes": 37,
+    "sha256": "0aaad212a3995ea092131cc9511e0e5a0e490db498f15b33fe9b3798047f8f3c"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/seeds_random_05.csv": {
+    "bytes": 126,
+    "sha256": "38e49faa77d58ac0f378e6e8a1db02c26cb7e34dabd405df7a4119380fab7e78"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_01/seeds_random_10.csv": {
+    "bytes": 232,
+    "sha256": "3d3d0c4ec758c631622e6d99c57574d782f966f8eb040f99a9122f3eb86a5569"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/edges_a.csv": {
+    "bytes": 19556,
+    "sha256": "c19ba683d81ffc9052ff042e4321453d5f28025a0e4203971e802b460a65afb3"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/edges_b.csv": {
+    "bytes": 19611,
+    "sha256": "6c224fee668f9064185bae98daf277310c8353145ff6a6a3d3511b7af1970b11"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "6784c655dc76a7e19a213973ab6d331ddb61ec601012b3ceb38731af5bcc2c45"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/metadata.json": {
+    "bytes": 636,
+    "sha256": "227ff0985251e03408b0746448d5b60e52d4b4109870a2ad1c882bcf197516ad"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/seeds_degree_01.csv": {
+    "bytes": 37,
+    "sha256": "dc8845a15bb0e5217f37201726b322f890fa246d013b29f8160ea87b2e4d8185"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/seeds_degree_05.csv": {
+    "bytes": 124,
+    "sha256": "2cbe0f61f554876a657dea8ab7966edc6562fdda74ced7d46c301e3122366520"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/seeds_degree_10.csv": {
+    "bytes": 233,
+    "sha256": "0a2aa6dbf1215365f160cd406f7ee90015caced6d5aa863fdbd6a0330b55faa3"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/seeds_random_01.csv": {
+    "bytes": 36,
+    "sha256": "e072a7eeb851df1eb696d7f5346f81b35ffedfb2d07860260b92e5140a38c789"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/seeds_random_05.csv": {
+    "bytes": 125,
+    "sha256": "753eed71e07ff13643a809db3b426d8647883bc6ed226982936c6659dde76988"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_easy_02/seeds_random_10.csv": {
+    "bytes": 237,
+    "sha256": "9d90dc943d5419a7700e9f75d413a6f8f974e04ce036a5089ee7f5aea0859689"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/edges_a.csv": {
+    "bytes": 233335,
+    "sha256": "0f7070f5bdd8b95c7aa03addc3f895ca27fbf83a07090f8b1085080f25ebf920"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/edges_b.csv": {
+    "bytes": 233153,
+    "sha256": "68293d7662d1e8bbe8280277cd74c6f800fac142733e0451bb71f580d14f41d3"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "762a4cfa7d9157c14376c8f829e6a21d2ac022fe63c7538c6ec2b38425ef947b"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/metadata.json": {
+    "bytes": 642,
+    "sha256": "1a1b2e0db08376c8ff3ec0dee8f2b5a33d3b21c8cc229c5443140acb46c88601"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/seeds_degree_01.csv": {
+    "bytes": 91,
+    "sha256": "a21ab97bddab64353f6ce6ce47c56cf0888322d07d200afba9034f6a4e6b712e"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/seeds_degree_05.csv": {
+    "bytes": 402,
+    "sha256": "d9dad7a5b801c135ad1eaab188a0c6043b92c3ee0a5614060b6894265c553431"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/seeds_degree_10.csv": {
+    "bytes": 794,
+    "sha256": "0bb9c2470b86668f6d53e7d1820dda32557c4d6ac892ead73055449ebdc11409"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/seeds_random_01.csv": {
+    "bytes": 93,
+    "sha256": "f6b501191c4616bd1d2c275966c94e7557fab010e48632670ee7a5d20b78f8db"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/seeds_random_05.csv": {
+    "bytes": 402,
+    "sha256": "6a2b02bb0832ae319114085eedf3e0b61077bb1b4529ff570c5ae1cc3649e33e"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_00/seeds_random_10.csv": {
+    "bytes": 789,
+    "sha256": "5b195543e91845a84d807cefff1f80ca04e05ffc9366bfb07133cd9d4af80494"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/edges_a.csv": {
+    "bytes": 232753,
+    "sha256": "9ac98907730f17ae7ac4bc22875971d206c0beb6a3c639b1d25f57486514fb50"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/edges_b.csv": {
+    "bytes": 232757,
+    "sha256": "1c8b7eb2020bf5bfe558ad54e1d7de51005dd25b6bad2a83c359aefd8898abc2"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "70a33489be618f32db17ef3a8637a0db9cf83a5cfe71bbd8c2a91271ae938171"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/metadata.json": {
+    "bytes": 641,
+    "sha256": "75ff7a59a098b5043e2acbb238f616a3f90748e66ae3eeb19f04f449b6a828d0"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/seeds_degree_01.csv": {
+    "bytes": 91,
+    "sha256": "1c19027cd42b0c5e074b8a986fcc823708a3645956cfc7e346b067b40e07042b"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/seeds_degree_05.csv": {
+    "bytes": 401,
+    "sha256": "4203287239b3110012050979db02716a4d5917a9cba72d54e65cab9ffc6bdb9d"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/seeds_degree_10.csv": {
+    "bytes": 790,
+    "sha256": "39b1447a91cffbc55dc80f6e8e2bc5a806b42b722a1a230f02457e0ab4fb44f1"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/seeds_random_01.csv": {
+    "bytes": 93,
+    "sha256": "ed401956f24b0b40a54e8ea7ca4e88280baccaa1f946faaa2ea42ddb56cadaed"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/seeds_random_05.csv": {
+    "bytes": 407,
+    "sha256": "e6768fa17bcd54de0a33e39535bf99d662380512a2928b965554511195b5ff69"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_01/seeds_random_10.csv": {
+    "bytes": 799,
+    "sha256": "b8e1f1b1e2067ce2a6f9f94392f54b139ec779f32323a2199ff64e2541cfc825"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/edges_a.csv": {
+    "bytes": 233396,
+    "sha256": "300fa6f680801eed9ffbd97220587d397a3d730172c232787aa27220e7073d14"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/edges_b.csv": {
+    "bytes": 233387,
+    "sha256": "44c1a07a9e311fe1edb1fd8409df95055b1eb83d3660507d88a7535319e375a5"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "57c572062bd2f95a8cbec4dd738e8b360f55aa5eea60be88d0858605113ee317"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/metadata.json": {
+    "bytes": 641,
+    "sha256": "1c53ab5870c979076003ccaea465d81d90a9442f74f4e5616ae0aae7dcdc65c0"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/seeds_degree_01.csv": {
+    "bytes": 90,
+    "sha256": "e3faa7dc23ea10be3d9476d44ddfc50a504797c927fd913624abff5907cc8fe5"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/seeds_degree_05.csv": {
+    "bytes": 396,
+    "sha256": "8c9349f3d3f61479a59eb1c8a4f774122727efc664310f7d99596285bab2810e"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/seeds_degree_10.csv": {
+    "bytes": 787,
+    "sha256": "e12a2d55ceeead6a02a5c0f70729f9a7bddd21df0018b98630ae5035ae5e6b92"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/seeds_random_01.csv": {
+    "bytes": 93,
+    "sha256": "a3581dde8d279f973789e6a0814811322eedb4c9af006f327448d530f6c58d78"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/seeds_random_05.csv": {
+    "bytes": 406,
+    "sha256": "356b613bacbdab098b8c0e72fd8e76a7bcce5a4354e35e0b0e8fa56579283b1e"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_hard_02/seeds_random_10.csv": {
+    "bytes": 792,
+    "sha256": "b7ccf3e285fc671a51d3ab126c1bad6f845a82213f675ed9d5c7fd68707c9883"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/edges_a.csv": {
+    "bytes": 82241,
+    "sha256": "dba2085f2749f939bad3982e69d840010ed71da0512cb3090692d90ae97ff90b"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/edges_b.csv": {
+    "bytes": 82351,
+    "sha256": "25919d6c9bb26ee8ee531cb2a89b780c08cd08b18c5b2b1710845cbce2b1a584"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "71ffd2df4833ea25a637761f36fc3ac93d27632a00a3c49b52a164d655256f35"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/metadata.json": {
+    "bytes": 642,
+    "sha256": "6928116913887f046ee0eda153835e6d9bd354d2aa574129608dec4b3a682c30"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/seeds_degree_01.csv": {
+    "bytes": 60,
+    "sha256": "2c681e8dbb6efc326dd8107a246717b996d0b25833df329fdd1cf757857cdb51"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/seeds_degree_05.csv": {
+    "bytes": 246,
+    "sha256": "e81634747380ed5c04fa6ca246c18f7b1079d56c13d5fc282ada2c5743589327"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/seeds_degree_10.csv": {
+    "bytes": 467,
+    "sha256": "176afc2eb1a73de83191413ce99c5d43e880591aa56647f059f41074058ee1f7"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/seeds_random_01.csv": {
+    "bytes": 62,
+    "sha256": "cc08d33746e1e2ecae573c5681ecc216f4407c9ff09f18783e08d939707d0b02"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/seeds_random_05.csv": {
+    "bytes": 243,
+    "sha256": "5642161d0af071ac601d4e7405008c99edddeb2ed400f160721ccc9f9dc128e6"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_00/seeds_random_10.csv": {
+    "bytes": 472,
+    "sha256": "4f97f4cd8adebf7d5311fdfb3f6e5e7678dc178245c113740cb5e937c9ea4800"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/edges_a.csv": {
+    "bytes": 82478,
+    "sha256": "ffdc432d3826165b98c2b5bac3f21ba069d95b26a2d767424adb5781daf0843b"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/edges_b.csv": {
+    "bytes": 82506,
+    "sha256": "55515ff2d819a19110675358a7c482ef0c3e7f1a5b3c9a482e439b79c9f8edf5"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "f0303486197f7e4c9c444ac0a1a1bcc85abc1aaa1bf2bb70b8a15aceb66bf50e"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/metadata.json": {
+    "bytes": 639,
+    "sha256": "317d46c24ec59175c66c071c82fc39a9d39db3ea70fb3712940104518ec5c934"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/seeds_degree_01.csv": {
+    "bytes": 60,
+    "sha256": "25bf995c597b4a7d4af54cf476b08c020dcf2923c35b000e78a94ea066e170e3"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/seeds_degree_05.csv": {
+    "bytes": 245,
+    "sha256": "e920a03d284ec90e8b1eafe4f66704368c01555c3e9a6a3e84b3e1364272b35d"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/seeds_degree_10.csv": {
+    "bytes": 477,
+    "sha256": "82c0bb9be29c08d5fe80c07462ff52cc16b951565121c5f6e27a2cb65a99186e"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/seeds_random_01.csv": {
+    "bytes": 61,
+    "sha256": "2c90844d8daef5b91df631de3a76c3e10a9a3b3c5ae23f2817a4d439f7cc0536"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/seeds_random_05.csv": {
+    "bytes": 240,
+    "sha256": "63f0b1117f5642f44548034e8f7206ee78001064fbe7150e56ba918fab44a892"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_01/seeds_random_10.csv": {
+    "bytes": 470,
+    "sha256": "a13dabfa5d811fa0345de3df0377ebc1ecb73ad95fb94013af94afa86301a359"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/edges_a.csv": {
+    "bytes": 80519,
+    "sha256": "f2be62e6482198bb15c46921b42849cdb6823d57772d70f416be0d0c981fc157"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/edges_b.csv": {
+    "bytes": 80490,
+    "sha256": "a8cae32485b403cc4e950790309433d62dabf404cfe7da7b6a1f50ed1b10cf3d"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "9649e964c45ef0687d5ed1b340b1a32a1c18d6ae4e4338abe8d376fc76599acb"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/metadata.json": {
+    "bytes": 640,
+    "sha256": "27779f753b4306876c3269bf56c29ea6be983da89a0163b4eefdf66c44ba7bc0"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/seeds_degree_01.csv": {
+    "bytes": 60,
+    "sha256": "d39f52fb1d47cc2d5fb5ebf11ecedfdaf72d2c16a23bcd6ec5f9a81b21a764ec"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/seeds_degree_05.csv": {
+    "bytes": 246,
+    "sha256": "aa9abd91d5b2e29a657b26d91be64a88bf04b17f4017b7ee7a26bb76032453ba"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/seeds_degree_10.csv": {
+    "bytes": 475,
+    "sha256": "d6ec2dc5b41ddd80c80320bda861288ca2059ca3ebb1a65baf8904e835fac7f4"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/seeds_random_01.csv": {
+    "bytes": 59,
+    "sha256": "3ca42d533b93df59b273cf41e96126cea5c2cee42852cdb759faf6a321e32fe9"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/seeds_random_05.csv": {
+    "bytes": 242,
+    "sha256": "07a698bce2bf9996a4a78dc1b7d9273f0f44190268e4c8f8919c96c97858971e"
+  },
+  "01_seed_based/student/seed_based/train/stochastic_block_medium_02/seeds_random_10.csv": {
+    "bytes": 471,
+    "sha256": "8b041a34b7f7d4dfcc2e9130f1a78b023868c514cbf7ebe465ad000f0b8f7bd1"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/edges_a.csv": {
+    "bytes": 19361,
+    "sha256": "fdeca90a3715682c400e004bc266e324ccbc9ab4c358087195b461921d55b9e1"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/edges_b.csv": {
+    "bytes": 19368,
+    "sha256": "203fe892827d051e290f5f4579ac2f6ba8eda368ccdcfd73be8c7ebf6f9abee4"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "86c0e64dd7164b581cb5c35ee5433d9a53e29d52e05eaeb8139a35a54fbd4cf1"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/metadata.json": {
+    "bytes": 624,
+    "sha256": "3e9edb21867d159cdcc3533bc445356df3285c75240429a411d758b933b54d0c"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/seeds_degree_01.csv": {
+    "bytes": 32,
+    "sha256": "2beefda09fc34a60d686702db2fb4173f950535e86acf0261f8c94078caeadb0"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/seeds_degree_05.csv": {
+    "bytes": 120,
+    "sha256": "29105f6eeb78afa817f6b1b3f85479c3b9b30ebf64ee324734777a0fb5b84fe5"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/seeds_degree_10.csv": {
+    "bytes": 220,
+    "sha256": "6f1d6ca082caf5c1587bda3212f017ac5a11685d6f8ad550aff424d15714bec8"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/seeds_random_01.csv": {
+    "bytes": 36,
+    "sha256": "b6e2c22d76e8eaef24b6c2a291383f2b77220f1720e2661689e318c0ef9eb918"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/seeds_random_05.csv": {
+    "bytes": 123,
+    "sha256": "1fef7edfc2d0ec7dfa14f2f122fa70b8b2f79598ee7df044abce751c0950c214"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_easy_00/seeds_random_10.csv": {
+    "bytes": 240,
+    "sha256": "ab6c4e7c354fe395baff24c225abdb091200a862561e6564a5128a53909a1051"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/edges_a.csv": {
+    "bytes": 231672,
+    "sha256": "d8ea981551528461ca7b5da34ff2d1a1f320fd81bcbdfc2b973e97f5c5d1592d"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/edges_b.csv": {
+    "bytes": 231724,
+    "sha256": "9cabeefb3ae7d47c56fcb0076238efa91513b3ffad7303cdbec17c92f5d8cabe"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "ad9c0e438f61105d7acb7eb86ad4ed4444fadf824ea74086d0dc121d13987c21"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/metadata.json": {
+    "bytes": 629,
+    "sha256": "30fb2d0b32456b6e15f6b7170efc8be8b96d0ca76249de21c51318ec63422d1e"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/seeds_degree_01.csv": {
+    "bytes": 92,
+    "sha256": "018302d849fe9634dbbba90e1f7de31abea48cf27964fd4ca8af37b720b1893a"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/seeds_degree_05.csv": {
+    "bytes": 403,
+    "sha256": "00ff4288ad68a875bba66e53d51570f02a9a550f9bc984ab4e31193fd084c614"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/seeds_degree_10.csv": {
+    "bytes": 787,
+    "sha256": "1c2246eb9229eb1e73a0ee1a5067a4289516862d098dbcb87d6d93dd62069e7e"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/seeds_random_01.csv": {
+    "bytes": 91,
+    "sha256": "7dd728655e7a014b255347bed47a4cce0cfb00cd19213bb0bc97d2e7f167eedd"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/seeds_random_05.csv": {
+    "bytes": 403,
+    "sha256": "130660620adbcbaa530f29908f6394e25629c5ced7584c2a0e20b652ba88c7a0"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_hard_00/seeds_random_10.csv": {
+    "bytes": 788,
+    "sha256": "38e0f93bea04ac07770877cb44a8b416e57b5e23028dc8f1dd8004e2fa68ff28"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/edges_a.csv": {
+    "bytes": 82178,
+    "sha256": "79b7c246648bca3b1e1291940502a49fe8cd505875f5ec19d7ae1c7cb58d07e1"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/edges_b.csv": {
+    "bytes": 82166,
+    "sha256": "224ddc05ce94dbea5c72920e7e4f9ec6d7c6965ef5d027f560eebcc84ef0753c"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "a70a2ac333675adcdc78439c699f364c940205a1f10844e07094780ffb762044"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/metadata.json": {
+    "bytes": 630,
+    "sha256": "53a0fa80a407a67ea7c576292e9f4cc00ac34cf101a23dc78a8f361b0c6a2048"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/seeds_degree_01.csv": {
+    "bytes": 56,
+    "sha256": "ad898cd04655c5cc0fbdf162e7d40b3de860b64497a96aa5e1e768a1ecb83394"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/seeds_degree_05.csv": {
+    "bytes": 233,
+    "sha256": "01cbb5a91e224ac5ed85fda4933a39886c003baf0cc97c740df1fa57ea2248ab"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/seeds_degree_10.csv": {
+    "bytes": 461,
+    "sha256": "a7ba95fa6b990e9a678f584bb3cbc4e3848249ad0fce63f992a21326b88d898b"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/seeds_random_01.csv": {
+    "bytes": 59,
+    "sha256": "f1a4c7346a2fab94636d9c2b57c4fd7c9d0267733bef1d7d5cb5ad5debb6bf58"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/seeds_random_05.csv": {
+    "bytes": 235,
+    "sha256": "a97c395b6119fb991c64338259cca595a43faff2f65f4f9a7d8a9df049c4ee2e"
+  },
+  "01_seed_based/student/seed_based/val/erdos_renyi_medium_00/seeds_random_10.csv": {
+    "bytes": 463,
+    "sha256": "8291f865a5437ac2add425233d67ffcf45e05700856ab80f6736f035bd936ccb"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/edges_a.csv": {
+    "bytes": 12777,
+    "sha256": "17261b2318c5755504a145885995aa99544f15c3042dc76e9869bc34e1885738"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/edges_b.csv": {
+    "bytes": 12663,
+    "sha256": "aac24bb9e7879af3173335acdae1ac92e9952c098521a3591ad930c917a1c160"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "1f230338577132fa41d2499f6b964dbe13609fc95aee9e57c117fce51317ff9f"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/metadata.json": {
+    "bytes": 648,
+    "sha256": "d22b66155ae50c89e207e8f33b4f79894b1e13a23ec003a3e977c79e978e8fd9"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/seeds_degree_01.csv": {
+    "bytes": 33,
+    "sha256": "61faffe2a24b59d65e1129eb36eb503264fcd397b928344a6d33077aaa0aca90"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/seeds_degree_05.csv": {
+    "bytes": 122,
+    "sha256": "03e7af539b7d3fb1315b074febff5b471b50d46abc9409c4e309d8b358822b22"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/seeds_degree_10.csv": {
+    "bytes": 227,
+    "sha256": "86750c2ab4fdb82e8240e38658e612253155112891c3ef227a8c605c1a26f195"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/seeds_random_01.csv": {
+    "bytes": 35,
+    "sha256": "713529dc1f10941f03bcbc0f3cee1045d7e39d639d46a82d8c2c940355554fc4"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/seeds_random_05.csv": {
+    "bytes": 125,
+    "sha256": "93fdef939e26ebbe3831982da2d41d83397bf4434383da079e64d51571b046ff"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_easy_00/seeds_random_10.csv": {
+    "bytes": 236,
+    "sha256": "b58e3072778b3e0918cd7915ef71f009f05fc99978c2a7deebbdede64b1a0948"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/edges_a.csv": {
+    "bytes": 46513,
+    "sha256": "d2200e712b7d353d59a6b4dded8f919821b05e5f548caee1aa8e8ee8abb44adf"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/edges_b.csv": {
+    "bytes": 46563,
+    "sha256": "bc144f97d3cafd899866e105799af730416231e667e24d43e5eb9c5b2542f5e7"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "9c3d5d464e6ce3df459fbb55b04500c5251dc11e5aac9a57752d079e9073991f"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/metadata.json": {
+    "bytes": 654,
+    "sha256": "e8c0826bc15485865b77497a0a267bf0a57f02837d041281b4525af589b6ebec"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/seeds_degree_01.csv": {
+    "bytes": 92,
+    "sha256": "a06239ddb77f2fedbba683e5ba2b1c458904ba58a5a3bef6c5641b0f8fadaba1"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/seeds_degree_05.csv": {
+    "bytes": 407,
+    "sha256": "adb369624848e846c94cd7a8c50c4e9496072d3fef4113971d31fdf6e5d07318"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/seeds_degree_10.csv": {
+    "bytes": 801,
+    "sha256": "822185ccb81bfc236a2fa5b03dde2cac191aa34af91a6991ff0c7f0a0f2621f8"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/seeds_random_01.csv": {
+    "bytes": 90,
+    "sha256": "67e71340d0b031fa485fea50feae01016a392a0d56fb6e5b6355eeecb60dd678"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/seeds_random_05.csv": {
+    "bytes": 398,
+    "sha256": "0a27edf3a4364bd2fa109d56caa2c8f35e5b8cd6dd04c4e310d6779fff94a139"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_hard_00/seeds_random_10.csv": {
+    "bytes": 790,
+    "sha256": "2dc561f1634248a4c59ef763fc524b01b91d094d081991165bfaf95608d2505f"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/edges_a.csv": {
+    "bytes": 27111,
+    "sha256": "fc685031981fca0c790b04e6520bb430249badba5040e96544397860b766d35d"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/edges_b.csv": {
+    "bytes": 27134,
+    "sha256": "dfde753ef080c0fbeb4d9bf5aabbe809d5c32c788c4cef3da2c855b735ed03ef"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "6bed95fc75a13de89c47cc38cceb61ac21542f3546e30c102f74bc88757e4eae"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/metadata.json": {
+    "bytes": 651,
+    "sha256": "576f92980d080b5bb351b83d942dbf132a1c985d6870086c27afefb274d7b45c"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/seeds_degree_01.csv": {
+    "bytes": 56,
+    "sha256": "afdb206fe87610443bfc9f4b707bde5ced820b12254dfbf5de1fb6bb1a92af1f"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/seeds_degree_05.csv": {
+    "bytes": 238,
+    "sha256": "18c6c4081c2eb15b19bbdb6bdfbc8946e3e71fe20332b5d4e6bb4ac17029ff54"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/seeds_degree_10.csv": {
+    "bytes": 471,
+    "sha256": "760aaba30be350f862e4f7677669830cd0384a406ea320b7b0b6da122ba957d0"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/seeds_random_01.csv": {
+    "bytes": 58,
+    "sha256": "8f75d6e3a85011d5c57da64083cf47579b550065a1f5eb4dea2ddb47f321e53d"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/seeds_random_05.csv": {
+    "bytes": 241,
+    "sha256": "7ffe3a8a9f94bf657538bf6b43fd46ba8031476f2d231133f165852061d92a67"
+  },
+  "01_seed_based/student/seed_based/val/preferential_attachment_medium_00/seeds_random_10.csv": {
+    "bytes": 473,
+    "sha256": "81d6782b92e6807ce34a47426d133952f93dac8a5c882abed2ea4e165e271c23"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/edges_a.csv": {
+    "bytes": 18837,
+    "sha256": "bc39d2ab9dbb398d19d7b6e1b4b4c84e0cda9a37ee6aab339e0f2c9162492fab"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/edges_b.csv": {
+    "bytes": 18828,
+    "sha256": "c16a1fa75d70e4d9e335dc6847421cf5832b01a3c9b765b3436914fe5dacb40f"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "9d5c11a2f4b984d8731c5dee410911c854a3ec2b4a87f56e966fe71b79bd754a"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/metadata.json": {
+    "bytes": 634,
+    "sha256": "08e865122a1d6543a2fdd7fdf4ed8390e27f2abfdadcd60cb057b61166e1cdbc"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/seeds_degree_01.csv": {
+    "bytes": 35,
+    "sha256": "d38c529fbb21d984d54028b368e0566d1167f5644cb929c9cdcc142833f1bc33"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/seeds_degree_05.csv": {
+    "bytes": 120,
+    "sha256": "6df95b1eb96f47c80bdf987edd190e6016e80841de49b2c59c070120c680d20e"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/seeds_degree_10.csv": {
+    "bytes": 226,
+    "sha256": "3a880cc3b06d22ac88d1980fe74dfa64835757d7d7fa64c99d65bf606cf04fbf"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/seeds_random_01.csv": {
+    "bytes": 38,
+    "sha256": "4d67abbb340e24a6b9a9a7cc70f740b470c2bbf62754adde0ee380588ee7dac8"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/seeds_random_05.csv": {
+    "bytes": 122,
+    "sha256": "cc89477e0131445078b568c740ea6ba0dba809700f9ef39c9c628cd8d1d8c56c"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_easy_00/seeds_random_10.csv": {
+    "bytes": 233,
+    "sha256": "6d29df57735a1c9c5a943e52dae0630d1641166c13caf3ebfd36c6bf8edff2c5"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/edges_a.csv": {
+    "bytes": 232919,
+    "sha256": "9b0b92becef5af052e65c90d3ae734ce3b7373b25bdc4b1125e08cb845628e1e"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/edges_b.csv": {
+    "bytes": 232876,
+    "sha256": "8eaaf8a0030a4e62a9437be8a98e4289ecee60ca7c4ccedc7e2ce3bf3ac3525f"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "690a69217b79b5fc4ca2eaa45de264987f18bc1e619b538310fdd8396de7056a"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/metadata.json": {
+    "bytes": 640,
+    "sha256": "f027c4e8d9a9afe5daeb73d626d918716246ea351e97ce46500ea190785c6bfc"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/seeds_degree_01.csv": {
+    "bytes": 92,
+    "sha256": "13a541689b97c5aaf4919d0ac0c0cb074aba31f8357f5e484ddc3510024167df"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/seeds_degree_05.csv": {
+    "bytes": 406,
+    "sha256": "9a873eef9e55b61ed942b0e43d3b6d7df5f8ac403c1a0bf194696c8b80b411e4"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/seeds_degree_10.csv": {
+    "bytes": 795,
+    "sha256": "b30dbde03c6f618a6c3c02c611fac968c01a9cf2fbf66c47797b07fe796bf9d6"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/seeds_random_01.csv": {
+    "bytes": 91,
+    "sha256": "c8a6eb9bac3d6420d726be7f88b3f500f50e169ba2f48ef98fff4e3409a22c7a"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/seeds_random_05.csv": {
+    "bytes": 404,
+    "sha256": "b8154a81df8847aab58a4e6f8bb6573b0cea5012a239e77c6b1f6ba477416506"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_hard_00/seeds_random_10.csv": {
+    "bytes": 790,
+    "sha256": "c0a26b6b991b09b2c24a8015cfd49532f58e6dde9b14dbbe1e91aae26b841959"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/edges_a.csv": {
+    "bytes": 82260,
+    "sha256": "210a6407e5b9e418462580db537b8ec7aad1a9e6491882a3c5ffbe2b0a092dd5"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/edges_b.csv": {
+    "bytes": 82309,
+    "sha256": "52175c5c9c15da2a1fc69b30e0d6b1316de1ae0c17111d9776b2b41e95778ee0"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "e978e9868d6db94b5922df62b86e34572c27113c8612f7e4a190c20ec5204de8"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/metadata.json": {
+    "bytes": 639,
+    "sha256": "0cf64e88cc67598f9aa3f7d9f051b0d7acdc9f2f64bdc8c1ffb217b053a10275"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/seeds_degree_01.csv": {
+    "bytes": 60,
+    "sha256": "0e4b9c66eebe4736197a19dbd6d27718907c320ce19f1c440c983333f2707b1d"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/seeds_degree_05.csv": {
+    "bytes": 246,
+    "sha256": "814b5f564717a91c8a05631bcee8a7ff43ed72533499e443c85f6fecfc926dc5"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/seeds_degree_10.csv": {
+    "bytes": 481,
+    "sha256": "0fec21009c4bd310aaf430dc86eb3e28df7c0ff5a2fcdcb9f73376e799439912"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/seeds_random_01.csv": {
+    "bytes": 59,
+    "sha256": "894db769cd6a32e0ce44bbb0ae5c989093375853c4a2616ce17cba9423ca8892"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/seeds_random_05.csv": {
+    "bytes": 244,
+    "sha256": "df0b8d0b980efdbeb758eadeb901c816eb94581857050489821603f3c56655aa"
+  },
+  "01_seed_based/student/seed_based/val/stochastic_block_medium_00/seeds_random_10.csv": {
+    "bytes": 472,
+    "sha256": "dd272fad66b738f213a491fdc1325d770af057b4831986fc0a4fd4ef3eb8b23e"
+  },
+  "02_seed_free/PROJECT_INSTRUCTIONS.txt": {
+    "bytes": 1741,
+    "sha256": "aaf90e326460811014a211238f873a6d391d59097cdd094966bdb6301d7916c2"
+  },
+  "02_seed_free/environment.yml": {
+    "bytes": 209,
+    "sha256": "9e59453e360436cbd91e959fdf1cc9d901a08cd09c3964094d4c91b9b7eea17b"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_easy_00/edges_a.csv": {
+    "bytes": 19967,
+    "sha256": "26ff3fc3ea20355d15f43be579ada7b9e807527c504eb9630c4f1e882d18164e"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_easy_00/edges_b.csv": {
+    "bytes": 19942,
+    "sha256": "7e88d5b0b8f249ca787a2bf5ed6650e32ba9059480eaecb5b0fa87640de1c7e8"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_easy_00/metadata.json": {
+    "bytes": 624,
+    "sha256": "8f3ee775ce42293f514d712a76c1d704c771b6f567204a6ff0d4505fdbdbda8b"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_easy_01/edges_a.csv": {
+    "bytes": 19620,
+    "sha256": "4fcd51fb93cfa83762be43e6b206daa255d82327ff38ed98bb87d5bcc7164b8a"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_easy_01/edges_b.csv": {
+    "bytes": 19565,
+    "sha256": "56618d97259a15b0973f2dba046ff5c4e83b80af6ae1bd9029657f2ca62ac18f"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_easy_01/metadata.json": {
+    "bytes": 624,
+    "sha256": "5cd9af5942a882fe4c02d5aa9956282092395b707df06948c16645b42233b7e8"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_hard_00/edges_a.csv": {
+    "bytes": 230609,
+    "sha256": "8320d32db373faa91700ec29c72811fcbaa6aaf6884fb668fec7f4750624cea8"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_hard_00/edges_b.csv": {
+    "bytes": 230511,
+    "sha256": "d4f81390d4db528878e6ef05b5063f0c8af5d28b1a264d7113d2fcd964dfdb3a"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_hard_00/metadata.json": {
+    "bytes": 631,
+    "sha256": "594e52199a138a7671e713aa3be941491d02838ce0665b21d4ae65d4ce7182d1"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_hard_01/edges_a.csv": {
+    "bytes": 232201,
+    "sha256": "e74097cc11594b407ec649d52f9de9a14b4061f66bc8ecb7f2f3639eb175bbe4"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_hard_01/edges_b.csv": {
+    "bytes": 232027,
+    "sha256": "bb88836481ed3c8b3da531be2ebbd71ee88102bce7ae4584383dfc8df31ad6b2"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_hard_01/metadata.json": {
+    "bytes": 632,
+    "sha256": "708929c70b78ca339d4f6d71fffe6b93e24c9b756e7153bdfaff2d3866dcaf18"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_medium_00/edges_a.csv": {
+    "bytes": 81534,
+    "sha256": "31d908ae0c3f67ce83ecddadcd1853740878fbbc05fc0b3344852425ceaa84a4"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_medium_00/edges_b.csv": {
+    "bytes": 81452,
+    "sha256": "6fec56f83e9c11a3ed087e89f3aeddb29ef71eb88cade9ecb8d4cc695f8383df"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_medium_00/metadata.json": {
+    "bytes": 628,
+    "sha256": "ebc3db12daa9272eb314fe15be0257834cbf49732262bce1c39cc1e5ce9fe159"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_medium_01/edges_a.csv": {
+    "bytes": 84291,
+    "sha256": "3449aed51dee171a2197f546d6bd75a62027aaaec45cd47b90449a0825aaeeb8"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_medium_01/edges_b.csv": {
+    "bytes": 84207,
+    "sha256": "2aa065178e60d9aeb3081de711798f6e9e898182e673daf7585ed4c11c5852f3"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_medium_01/metadata.json": {
+    "bytes": 628,
+    "sha256": "1039e82f1a04b1045450659a4101e3e81898d53db7bbde4ba41a7263edb6bb06"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/erdos_renyi_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_easy_00/edges_a.csv": {
+    "bytes": 12794,
+    "sha256": "1639eb63b0b804b2794dc0ff048711baf02f61676f174ea1eb0a6251c422b3b0"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_easy_00/edges_b.csv": {
+    "bytes": 12791,
+    "sha256": "1c16009efd79a44be9af7b254985faaab82f98526e8c0ab2a43f118471daa582"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_easy_00/metadata.json": {
+    "bytes": 648,
+    "sha256": "e811a34ca4f472a7a1a917a6c6ca245a41a5f16f6bdfd3c581a49a5aff8fa8e4"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_easy_01/edges_a.csv": {
+    "bytes": 13009,
+    "sha256": "959a95abc072b8f240bc6babea71b207a1da8ed48c110dc0ccce0bccf9b5108b"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_easy_01/edges_b.csv": {
+    "bytes": 12749,
+    "sha256": "66d70d845597daf1bef4ba78b922d579d7437eee4eb5fabb6513b300be8fea0d"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_easy_01/metadata.json": {
+    "bytes": 648,
+    "sha256": "cb4387da6cb05b58aa0f441c33638472238ca4d0e28d8634a0b70f71fb9b32a7"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_hard_00/edges_a.csv": {
+    "bytes": 46377,
+    "sha256": "fb45fa483bbe2116f0858abb8ad2a16921f93db515582b735ffd142d8d486c12"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_hard_00/edges_b.csv": {
+    "bytes": 46255,
+    "sha256": "deced0064d928f90fda2b29c19eadba8764eab7d3f1625661deadbd70d3ccbcc"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_hard_00/metadata.json": {
+    "bytes": 652,
+    "sha256": "3f147225bc0505b210507b831544d39686a7fef957e884cfd1683d1309031f7d"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_hard_01/edges_a.csv": {
+    "bytes": 46360,
+    "sha256": "eaa3f5d32964f81c8d06b7a13b4b39abffd7c9cf24fe4411860c62f4c9d3e1cc"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_hard_01/edges_b.csv": {
+    "bytes": 46469,
+    "sha256": "21719d57735eee6d3023131d5751f40e653894999fea2d175615f4041fa49829"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_hard_01/metadata.json": {
+    "bytes": 652,
+    "sha256": "2f51cf33aae75bbaa53146385e1cd115853f69b3200800fce08838a7839111de"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_medium_00/edges_a.csv": {
+    "bytes": 27202,
+    "sha256": "a1dd48e04582511a9d21c4275e651df620423e8c7e6c5c8813819ae0ce7db90d"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_medium_00/edges_b.csv": {
+    "bytes": 27347,
+    "sha256": "476b7e5b1a30a0c5ef0451a514ffbd7997b696fd62713b6a5a32964e1442f4b2"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_medium_00/metadata.json": {
+    "bytes": 653,
+    "sha256": "63cae8eb5d5132d7ac614ba04b296a016b4ce5e79f0221523b619e311276d0a9"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_medium_01/edges_a.csv": {
+    "bytes": 27177,
+    "sha256": "54a65ca277de60d9df7a6795b22c22a86846db70243e93c8e5d7cc1e86aeb555"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_medium_01/edges_b.csv": {
+    "bytes": 27285,
+    "sha256": "4554f7ee9aba93aced414a5edbbbf602a35472cd4f522c93ae09f4b3054c47a5"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_medium_01/metadata.json": {
+    "bytes": 653,
+    "sha256": "fdfdaaa3d0d4a184d2c093b200df166415427e3fd589f9f091f2b5b423cd7110"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/preferential_attachment_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_easy_00/edges_a.csv": {
+    "bytes": 19510,
+    "sha256": "82a995b93b639edf7fa49c3b6c5412993092538ed88ae447bf87febd9ff3711f"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_easy_00/edges_b.csv": {
+    "bytes": 19561,
+    "sha256": "109b2a53f771a3d1a8384d7d95cb1143eaf6dcde58199fa3982db4521408ffc6"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_easy_00/metadata.json": {
+    "bytes": 634,
+    "sha256": "8086799f5994a10fe4ea588dbac06a996dc5bda73153c7c09b668869e1ea2964"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_easy_01/edges_a.csv": {
+    "bytes": 19230,
+    "sha256": "909613c88e7dc1797b27617fc138a43601db23e5143abefd8784eac2d1ea5948"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_easy_01/edges_b.csv": {
+    "bytes": 19186,
+    "sha256": "ff00c3a3ae563e55a7dcac707fca846171a6527287d8c16ef56db147d74ea6d1"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_easy_01/metadata.json": {
+    "bytes": 634,
+    "sha256": "e1a96a7251320fed7abcf0a68106aecf5f8e76bbf8f0853c4d3c764e77da74f5"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_hard_00/edges_a.csv": {
+    "bytes": 234545,
+    "sha256": "ee7da1e7281fb105362e6746c43c95ae447767093dc8df316eed83c5e324ed80"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_hard_00/edges_b.csv": {
+    "bytes": 234514,
+    "sha256": "7805a832fe50e9c222c5d44dc08385ec8d80a7268d4c70080474121c365afcd3"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_hard_00/metadata.json": {
+    "bytes": 642,
+    "sha256": "0ae724590ee982010563e8ec2c4d0e05444addb9a4cc988eb3172d0af92709a3"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_hard_01/edges_a.csv": {
+    "bytes": 233460,
+    "sha256": "96d8a51da44d5331f2ad1abe088606a30ff75294bc80c409c5fe6d3bb5a0e05b"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_hard_01/edges_b.csv": {
+    "bytes": 233763,
+    "sha256": "0e7dabcc390bb48820281cb515c105ed1734c73acca1601317aa5be933ef1229"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_hard_01/metadata.json": {
+    "bytes": 641,
+    "sha256": "6be6bdea3001d30ba9a111e948a02affff0863e5814b81601fcfd65fcf297897"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_medium_00/edges_a.csv": {
+    "bytes": 82474,
+    "sha256": "52bb965f4e79aabb8fab3b0748254b54cff338f5eedf700971294b932393b4eb"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_medium_00/edges_b.csv": {
+    "bytes": 82530,
+    "sha256": "bfb9804ff5775bc14c65baf57541db9cb5f9d391d627f80fd703929e0afdb331"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_medium_00/metadata.json": {
+    "bytes": 639,
+    "sha256": "717ba75c51f54478b7897ebcc1c381d4ff487cf45de3353b0d48156f33c3d5f3"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_medium_01/edges_a.csv": {
+    "bytes": 81495,
+    "sha256": "452877a7c7b88da47dc06b775e57fc29192b8be0e5cbb8757ad05e58996aaf69"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_medium_01/edges_b.csv": {
+    "bytes": 81477,
+    "sha256": "d123516a0fc3ec4d1de4ea2a4b9feb17d8e288490c180939d7428de9ca599fdd"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_medium_01/metadata.json": {
+    "bytes": 636,
+    "sha256": "dfc86b6f9da26653da413aa5a60c75a6fdeb2024e88007c14b89f6d28be8cac4"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/test/stochastic_block_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_00/edges_a.csv": {
+    "bytes": 19790,
+    "sha256": "9e9c0927c4fce26a2a488de1ae2f4e719366f1e031b92b43990d988c2a4975f9"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_00/edges_b.csv": {
+    "bytes": 19879,
+    "sha256": "010f390681e6adbc05a54c4c03765933e7753a270675012d9520f7364148ed57"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "12f71c7c2eaeaaad9b6885be6d6f5981bd91e628b412c7942baa72ae63e8a75f"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_00/metadata.json": {
+    "bytes": 626,
+    "sha256": "82840f3f3ac537a1164937473d4bd9cab411c6372f1c19111d8a48bf5ac14527"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_01/edges_a.csv": {
+    "bytes": 19807,
+    "sha256": "fd3983b8e9cbf2532864df2fe84a6db10b92328da4b8ff76c23791d035ebf10e"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_01/edges_b.csv": {
+    "bytes": 19797,
+    "sha256": "86fe5c8f2c36388cb1a736a39593b518869431da61b5410d9602575be1f86b05"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_01/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "a33c5390c930c372749a59f384b7ef2803477f48482bd6b02d046d59fe4b85c2"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_01/metadata.json": {
+    "bytes": 625,
+    "sha256": "0e5ffb0644873a69d1d136571f2194ef688d9cd69308595150d037eb455cda04"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_02/edges_a.csv": {
+    "bytes": 19165,
+    "sha256": "43881d11dc792ab9d5a9d64b841d1a2c48c6c89d74a5206e21cf54b39203fbdf"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_02/edges_b.csv": {
+    "bytes": 19139,
+    "sha256": "b978824decf47ba49a2d16c8d8b0b14f5ae7afa1deaa682020209463e51d4ea9"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_02/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "e8276d1e4c25aba0a77ba7359d3fd37af2689e381707c4f9be2d9c5f6668334b"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_02/metadata.json": {
+    "bytes": 623,
+    "sha256": "28644cd7fb47e1e073f3e2cfeda9851f13d311c298c7c1a19f196da5ca319174"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_02/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_easy_02/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_00/edges_a.csv": {
+    "bytes": 231728,
+    "sha256": "1a453c3a146bfcfc8c3df3980fe66ff58b8146398ac2137002860816eaddb4d8"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_00/edges_b.csv": {
+    "bytes": 231655,
+    "sha256": "4b12de824f722de311196e6cced442d5977f4119a37e52ad97f41e727cd312a6"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "a4281190c5452db14065fc9446b50b1423ae6cd64f3c31ca3fb6752136a5c4b7"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_00/metadata.json": {
+    "bytes": 632,
+    "sha256": "e32839708a5f7c1059f53360d24867998e7cf5225b04a42fab283fe050078e81"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_01/edges_a.csv": {
+    "bytes": 233604,
+    "sha256": "f6351213d1677cafb165fee6526bf27ac1f2c521b10b79ff4f913acdac92f72b"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_01/edges_b.csv": {
+    "bytes": 233640,
+    "sha256": "58240d37b015861d92d144676f200ef8369e54ea4b22bbba577e9ab2261e978e"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_01/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "f0017a0072dcd7c6bdf6dd5123c26e936e9de4177819b66423098ce969d570de"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_01/metadata.json": {
+    "bytes": 632,
+    "sha256": "7cfb6cdccfaa409c1c0f8ab50d44ade05c469b701d996f4ecd5155d3439ccab7"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_02/edges_a.csv": {
+    "bytes": 230168,
+    "sha256": "8cec19a3db72047cd1c0e6e70b0cddb19fe38a5b4bd646c733591ec5c309946d"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_02/edges_b.csv": {
+    "bytes": 230071,
+    "sha256": "d785473aa4f5f3174e49cf586548ac2475494d1471f30d87edb46313307851df"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_02/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "5faf721e9abdc827d6b85b21be2477521c69e8105529611ce18a1ace2ce3dd37"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_02/metadata.json": {
+    "bytes": 632,
+    "sha256": "cb03336cf67fba049b30ee982146a13ef19f7e9f15dcaa18af01acaa89f868ee"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_02/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_hard_02/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_00/edges_a.csv": {
+    "bytes": 83418,
+    "sha256": "693e5d4bba83e80a34e473df5fdfe5addfeaf65abfae4a163b16eb02c2bfd57f"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_00/edges_b.csv": {
+    "bytes": 83598,
+    "sha256": "0d25277c98826449da40b92561466f421920dd4872e8fc3d4ec892a90610b58e"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "78caeb0dfc87227226c83020ab96f9abbbb0ff3a8d297c2638922909774a4335"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_00/metadata.json": {
+    "bytes": 630,
+    "sha256": "821d3f54592b5a1b01299a853c8be6d853c652e449dbe473f38c07c6cd2567a6"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_01/edges_a.csv": {
+    "bytes": 82914,
+    "sha256": "f67f9658b412be0e1d3f662f193af87418e1c8871fe986b9dce03feb957b69dd"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_01/edges_b.csv": {
+    "bytes": 82916,
+    "sha256": "013cedff8008d7397ae5498d1111f1335c96233d3805732d76ca38aead31d0f1"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_01/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "7f26d49b71b35cd06a274ff0cdbb795a2e22f8ec3c1153f50e5b21b586ff892b"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_01/metadata.json": {
+    "bytes": 630,
+    "sha256": "c1ce2a264f0242ffa5e0e3e340e9ec2de5564ae0e6d3f95994ebce0fa7b69698"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_02/edges_a.csv": {
+    "bytes": 81577,
+    "sha256": "76a6eebf4897439ae95f1ffbd0f88015ba0a60ef8f04845f06f28a0487165e90"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_02/edges_b.csv": {
+    "bytes": 81631,
+    "sha256": "28383da5005e1d436c34bba81a932312fc3c728ed8dee1bc8b383e02bbfc1507"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_02/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "c3fbabc8da3209eced8743ff16355798cdd1ca13722d9059e99dfd86c7535e27"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_02/metadata.json": {
+    "bytes": 630,
+    "sha256": "7b43dfed0a6b1fd3891a148d1e1cbcccf709ceafab3611247b1d08663f76f551"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_02/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/erdos_renyi_medium_02/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_00/edges_a.csv": {
+    "bytes": 12757,
+    "sha256": "44d1cf3563e78c007064f1b483263721bd41ac3df47343dc57b6f57efc4a414f"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_00/edges_b.csv": {
+    "bytes": 12902,
+    "sha256": "0b16a18d5977f471e84633b295d96532a1bfc2c3ed9ce0eae7e270549f03dc83"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "80da92a95a1884dbd532eb7af2cf0794e48e54c82b84ed9a7036c13850e196ef"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_00/metadata.json": {
+    "bytes": 649,
+    "sha256": "e3e72e737ece443197d1d970ba1c079064d872c46081e576f04b2da49c408f52"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_01/edges_a.csv": {
+    "bytes": 12796,
+    "sha256": "e61c70ad069bafd1f3ca458da519ff613ed88cea822f79f3a588fe4323db71aa"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_01/edges_b.csv": {
+    "bytes": 12753,
+    "sha256": "949f51c95716adfcb741f4fecd1adcad16aefabf6c6dc34fd14f43e0bafe482a"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_01/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "2f149376ec2cda9bf9210527c6c876e9557906931c6a7bb346e7c5112abd2a3e"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_01/metadata.json": {
+    "bytes": 649,
+    "sha256": "2fcfe3933c3266e77f26b57fd80fb7d00fdd5cda480813db85e354031a5f6427"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_02/edges_a.csv": {
+    "bytes": 12984,
+    "sha256": "4a742bf288ed67dfe2eeff454ce76ec8a5864f81f83047502b89935e7c9a53a2"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_02/edges_b.csv": {
+    "bytes": 12692,
+    "sha256": "3d65146aaf1e711f0b6930090bdbeed9eb75d877e374070de7cdcebb7b2e9d99"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_02/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "73d23ac73feec282a1ab58dbba174c3d11bbdfa5f43e684d6be43e07ca02454c"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_02/metadata.json": {
+    "bytes": 649,
+    "sha256": "051cf5d0e89229a3ac80341856b21cd6d4ab7c300dec4fb7e7ed9368e1a647f8"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_02/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_easy_02/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_00/edges_a.csv": {
+    "bytes": 46550,
+    "sha256": "d10d476d567e82876befd6de0425f68a4f98fcaf605a4755c3694dad063d4281"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_00/edges_b.csv": {
+    "bytes": 46390,
+    "sha256": "0294b28fc4a109f13964d2c8be200195188f7265495a193ae6180033c52e367e"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "765d0bae543d50db8cfb4c3e10793703cdd8e3cd38dd7da5fc851f62adb5315a"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_00/metadata.json": {
+    "bytes": 653,
+    "sha256": "8f2f7849219375a2766bc96ea9f35fc141c9545434c04b8f87be1e1489471233"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_01/edges_a.csv": {
+    "bytes": 46489,
+    "sha256": "dd582f287697f9e8f1a4bb4e4d5f29bf818cbd633ff789f29dff492cfac7eec0"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_01/edges_b.csv": {
+    "bytes": 46474,
+    "sha256": "a2e4700370e727b771898699a238394c120c586820771d1041212b90c7814138"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_01/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "2705791f0cd373edc8544b26c7153d60876c42f3f8fe1ce22bfe1084534f650e"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_01/metadata.json": {
+    "bytes": 653,
+    "sha256": "4dea3f8ac4051bd2b24422e7051a520efb86350cda5e0e7e0a16d38aa70eae89"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_02/edges_a.csv": {
+    "bytes": 46624,
+    "sha256": "6a4e5a8cc770ef64f5ba23da362a645cc7e48dae084ba81cd32a2b5c3a3bce05"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_02/edges_b.csv": {
+    "bytes": 46555,
+    "sha256": "982ef007fc80205e926fc1eb44e5ce2aab42ff2f2906a3d8c27263745a5268f0"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_02/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "65ec57a2ad1d26715154e2976f8d3738d8438c67dc39589a29e6a2e4d8b4e572"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_02/metadata.json": {
+    "bytes": 653,
+    "sha256": "743888e15c0fdaf7d86d385cec0a37af41602077e3b3eb693af7a8e5c248a182"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_02/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_hard_02/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_00/edges_a.csv": {
+    "bytes": 27367,
+    "sha256": "a835084a1009b5a0aa217dfe1fe4d7c709b58a9dbeb8241399d5142281975676"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_00/edges_b.csv": {
+    "bytes": 27115,
+    "sha256": "74bf6eeaf646c6bce3b24e7ad1b6a6af5c5e81ecc3b253f65597b01252dc178a"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "139c51a2b4037a2af78839ed2a12289b4151657773fc4d9fb9f56929351fc04b"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_00/metadata.json": {
+    "bytes": 654,
+    "sha256": "83ff6a89af87724aab453ec5090b862b51292cd0275c0d37cf2dbb8d4a13feb9"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_01/edges_a.csv": {
+    "bytes": 27032,
+    "sha256": "edc37f8a2303fe0819cf6de69567b2a4c35fca7c0f7367dfde91ec5907cf1785"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_01/edges_b.csv": {
+    "bytes": 27331,
+    "sha256": "45d4c194fb29e3b6bfde7bc4b07e81917717d3e48ca745ae007f935f460043f2"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_01/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "265c784998f31e3ed42d895eb0c49ca3e6cad739d79726f0d1fa756044b135a2"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_01/metadata.json": {
+    "bytes": 654,
+    "sha256": "3c6763c65717b70cf0c7ee5a8cae7750ed98467bd8d70a2a5e4af57c832619b2"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_02/edges_a.csv": {
+    "bytes": 27208,
+    "sha256": "5a5c817da040c4b2a18f0901e9c1b497c08aa163638bf12e98ded69d6995b905"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_02/edges_b.csv": {
+    "bytes": 27146,
+    "sha256": "14956748f7f720a048d7bd8d13fb81e95eedbfd9e871fec1f049a5af6529e2c0"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_02/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "cf7560d70fd89e24922e9276f3a65841ae18096c603ebcc0e6e7816d19188503"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_02/metadata.json": {
+    "bytes": 654,
+    "sha256": "d49851b47fe8eaad0069b5a6d7458d0cdcb71da69fade5b494e733ff462edeb4"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_02/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/preferential_attachment_medium_02/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_00/edges_a.csv": {
+    "bytes": 18890,
+    "sha256": "da1e781739b681254c61d7f3809f544f66d6c9c1eb345d61034e89f3e1c43e0d"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_00/edges_b.csv": {
+    "bytes": 18817,
+    "sha256": "1e15875a4d228daae9c247ff76414a1aa0bff1a2d2b20bad712f6ab3e93020b1"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "00b095c1f3f74fa633c0d54afcd9b439e7151eec575ae3c03819e1c250364d8a"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_00/metadata.json": {
+    "bytes": 636,
+    "sha256": "fcd7f236573b82a8b3da87875d3df1f5ad1f8ce2a61a9830333245c8e86eaae6"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_01/edges_a.csv": {
+    "bytes": 19902,
+    "sha256": "171740701334dc059498b5458e2ebe912c0084a877793aed1bbf34112fe73436"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_01/edges_b.csv": {
+    "bytes": 19897,
+    "sha256": "7e12143d1e0e1c352d052d4da06d97a59c5059acca171153375974048b27f634"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_01/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "27401c28dcb06c28aea45e610df9d12c472cc98aa979cac40a0c19116f192a7c"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_01/metadata.json": {
+    "bytes": 635,
+    "sha256": "61e049b82444158605bd5cee4adcec5991365ea62602c8e07f60aa609207e0ee"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_01/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_01/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_02/edges_a.csv": {
+    "bytes": 20195,
+    "sha256": "ab08389f1ec3bfe77b4fb288ad742517a1146e6ed03b39c92fb296a2963b5cb2"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_02/edges_b.csv": {
+    "bytes": 20128,
+    "sha256": "2048eb8f118af183a86f803c425623192106ea8029c9cf7e1d1cc4dadec9e353"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_02/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "d8ba11226557ebb0cde200d5cd19d89d19af96d960e103cd97aca3e97bcaca4d"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_02/metadata.json": {
+    "bytes": 635,
+    "sha256": "635f9658812ba6190d578c5309dc45c0c6ea94b874108ea5babf744ceb45358b"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_02/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_easy_02/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_00/edges_a.csv": {
+    "bytes": 232867,
+    "sha256": "5af355f30916d452c4940a1d8bb3902ba613c64849393dfeaeb61e7891c619bd"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_00/edges_b.csv": {
+    "bytes": 232771,
+    "sha256": "0d05ab9e7b063b1460ffe0fed94eb9c769d0407de47d05a991c3f17fc10f6b89"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "c113d78640058fb531f960f53882fd113f8aadf330dec12e9fcc3f37863a9c3e"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_00/metadata.json": {
+    "bytes": 642,
+    "sha256": "8ad48e57ea59978cc3d870e54b4aab4c2f0af91178684a15b20a22ffb8921f2f"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_01/edges_a.csv": {
+    "bytes": 231808,
+    "sha256": "f52762fa72b1e3a142f160bd507ffd16f0c307ed922a03be086783a92f403bac"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_01/edges_b.csv": {
+    "bytes": 231801,
+    "sha256": "a24ec614112ff529bbaefccd975b0ebe9a17696ba6d43d69f40a69db9956f3ce"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_01/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "e2bedb1cb046f9ff8af6907a20a0ee5c542242487108beac09a08c31296937cd"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_01/metadata.json": {
+    "bytes": 642,
+    "sha256": "f560b44d25f877af832a3d57087679edca9c3d6778962a0ed171a9b1b487bc94"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_01/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_01/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_02/edges_a.csv": {
+    "bytes": 234045,
+    "sha256": "46a935b940ab7e65ff08758fd4c4bd211934c86fb1a7376996c9b78a7e59f926"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_02/edges_b.csv": {
+    "bytes": 233794,
+    "sha256": "1e680c6ee71719cad967c4b59027fb78ae9cc5c1ebace3234e54b83f6bd77392"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_02/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "f9e5f9e2325ddada008ce803a5a000b11374444de604b27783e0284d0e52e37c"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_02/metadata.json": {
+    "bytes": 641,
+    "sha256": "f817e992934f317777e517a8e809b4ea59f61feb0e482db4374e8b5744d169cd"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_02/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_hard_02/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_00/edges_a.csv": {
+    "bytes": 82148,
+    "sha256": "91922e0ffe1860f3bab8756a2510bc92cd10677d49841e616694c516f337d56e"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_00/edges_b.csv": {
+    "bytes": 82239,
+    "sha256": "868552fce4340bc7b284e8e4119d9a783a46f7e72d803d5f09031699f7905514"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "1aa6d4810763b41a733f2847d9172e3ec9d3b6bb4769a773174cd9628b921640"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_00/metadata.json": {
+    "bytes": 640,
+    "sha256": "edcf2712feb3d56bbdd827a1c8db424632285759ea9b3028cbbad89b73699f57"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_01/edges_a.csv": {
+    "bytes": 82634,
+    "sha256": "e680523330531b987aa49c53b29b3abc0ae85244200ffca6ce72ff19792dce18"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_01/edges_b.csv": {
+    "bytes": 82723,
+    "sha256": "13dc09ffc61054529b7b7fab32929caea13e4bf39d9c8c227c4ef81a013ee04f"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_01/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "392798af504c698720c049857e3ee33565337b6591e905093f8d1d6a0b13732f"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_01/metadata.json": {
+    "bytes": 640,
+    "sha256": "1575578bc6ea2b34bf43db3208b2845cb5ca590bef00bd3e1079d9eb043f7d75"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_01/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_01/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_02/edges_a.csv": {
+    "bytes": 82589,
+    "sha256": "bfbb7dd663a47096cc0d1356bfbe1962f8e301d091bec3c77e4cb3037f84e6a5"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_02/edges_b.csv": {
+    "bytes": 82625,
+    "sha256": "9c47c9dcf0c3de815b7b9587773a9d8aee74763e714b6fde2a0ef44143489339"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_02/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "ff3a4c1a2920ad249eb300a9213b10ceac73a7190b16cd723416ae1aa7e80c09"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_02/metadata.json": {
+    "bytes": 639,
+    "sha256": "77b6697dc0fa5c43ba4e0c9d2395e51e2734c65cea11346617cc8e22b80eeb8c"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_02/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/train/stochastic_block_medium_02/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_easy_00/edges_a.csv": {
+    "bytes": 20166,
+    "sha256": "cf126452083b58e420151ab659109ba5c4a5e35067d099a9b0b5b517aff9f9eb"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_easy_00/edges_b.csv": {
+    "bytes": 20238,
+    "sha256": "bb06bf19b9e21cb42c97bc610a2e8825606ad57702df4f90e8acd2d6bed8b904"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "e607045f243134e228b66cc4be3c075b6d8a6b6d08871955ea4dd6b1317aef66"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_easy_00/metadata.json": {
+    "bytes": 623,
+    "sha256": "5963b738bd08947fdddbda7c4148e27852ec859ce459283dcfb708b1fcdbe2c2"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_hard_00/edges_a.csv": {
+    "bytes": 234451,
+    "sha256": "5aff008ac492ee5bc1614f42aee85c42156eafc59892b2bb0dd1c47f2596b691"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_hard_00/edges_b.csv": {
+    "bytes": 234514,
+    "sha256": "6057a5d4dc65e30558c7280434af087cc0d4a58cb2980f47418819c6f286a735"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "8282a458447d5373c107144443e0e5b2d2929dd1f71dd944e93b5935a931fd80"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_hard_00/metadata.json": {
+    "bytes": 630,
+    "sha256": "50f3e5e4113f0c0d010ccd298e36f4cf6ef53b9e38e6e04a50973b248267b1ea"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_medium_00/edges_a.csv": {
+    "bytes": 82250,
+    "sha256": "88c9f3bed825249b2ce4c5386e319c12aaed3f9ac42d9525aca2856068e48b2b"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_medium_00/edges_b.csv": {
+    "bytes": 82255,
+    "sha256": "71cb0e2f44519952a399c004957548e7484863fa63b90b8ecb7bb0db29314055"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "fbd4a9c126f0cc174fb734ab5bda8e0953bd77ac0126f87ca3d9e7f9f58b1db6"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_medium_00/metadata.json": {
+    "bytes": 627,
+    "sha256": "6e4abd2cb633fea25e2273e445522503db01ce512d314ea6b58bf7079593d22b"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/val/erdos_renyi_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_easy_00/edges_a.csv": {
+    "bytes": 12888,
+    "sha256": "e07037d01f44b9168cdd47bf626af5f5728c7e52b818b9e80c3f41ddf498ae84"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_easy_00/edges_b.csv": {
+    "bytes": 12738,
+    "sha256": "6a2a89420422e50f0adf397d734e78cce5f350fba7764def4d2e3474765f8cbb"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "cde895428a40863b6f6265a4e112a7d66838f35191644e41a9e6f188ee95a9e2"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_easy_00/metadata.json": {
+    "bytes": 647,
+    "sha256": "0764b33e1bcc2b26de42faa48bdfa8eae80b26c729b2ad53fe339c32eae67396"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_hard_00/edges_a.csv": {
+    "bytes": 46618,
+    "sha256": "7a062940b243e755a9a0a6117b3a841e947979a94c3bbe1396eb88c5b4de8e6b"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_hard_00/edges_b.csv": {
+    "bytes": 46537,
+    "sha256": "778da790a127431fe53c2e73878daea2c63d3d295608cada3a532af83f8065db"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "886675d6488b697c5f62dae351023366ade1e7d9c2c71947e0427fb2f3b81533"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_hard_00/metadata.json": {
+    "bytes": 651,
+    "sha256": "9b460d90ffbc404f20728ba9f384bb775236fb1f18d1e6227d8520b8487c1987"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_medium_00/edges_a.csv": {
+    "bytes": 27083,
+    "sha256": "040f3c8c46bb7fb71e70535ddad3908c4cc728432e560d2f7929ce862f94e41f"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_medium_00/edges_b.csv": {
+    "bytes": 27289,
+    "sha256": "ca3952c8aff4bb2b7e834cf206af29b1562e0ee9842bb04dfc16caedf5a9d8bc"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "d75be2da02af15b04e1562d9eceb44b0448c9dffecd4fed173ee6be325359fdb"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_medium_00/metadata.json": {
+    "bytes": 652,
+    "sha256": "ec46ff6c4970867a7f2995c09b843db1b98af823717c581456ff314e2ddd1d0c"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/val/preferential_attachment_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_easy_00/edges_a.csv": {
+    "bytes": 19363,
+    "sha256": "08e7d6124da256cb55279aef1dab145eb8355e5925a228551fead8ad17d8e3cc"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_easy_00/edges_b.csv": {
+    "bytes": 19403,
+    "sha256": "5652b9a14e99528d474ba2bd7d0cb5b98eae375d1a49b979f27043d7c01f4dad"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_easy_00/ground_truth.csv": {
+    "bytes": 2194,
+    "sha256": "3241207a540c9892386b4cbce992d3440ecdf484e4d9920c830a1ad19251b4cd"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_easy_00/metadata.json": {
+    "bytes": 634,
+    "sha256": "1d51c4e452eb048bd0bdaa6bff1f0115816ac34f1a1fa8bc05d17f1d83c70fc6"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_easy_00/nodes_a.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_easy_00/nodes_b.csv": {
+    "bytes": 1098,
+    "sha256": "7208ead9888f2058c48218a0b8ab9f7ef8e82fe7c4078562f2120d7f616c2f3c"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_hard_00/edges_a.csv": {
+    "bytes": 233790,
+    "sha256": "efd5f896f8837485c2538a0d153edbbbd5ded06720e41debc13a5888a29561fd"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_hard_00/edges_b.csv": {
+    "bytes": 233860,
+    "sha256": "a16049faaff6088d7d2daf7263c3429a4bcb95c99751ca6e3bce2a0aede7ea0a"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_hard_00/ground_truth.csv": {
+    "bytes": 7794,
+    "sha256": "6e0e017603e47ef16f229250ffe57c61ed42f0274ea54f86015039b58080de1e"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_hard_00/metadata.json": {
+    "bytes": 640,
+    "sha256": "a16fc5454db018f50ceb00243e6f6dd40a66e93a6b6f0ac2933667da71244eee"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_hard_00/nodes_a.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_hard_00/nodes_b.csv": {
+    "bytes": 3898,
+    "sha256": "0a66c6536e011d7c502b34918f1d8508094bf939bb47968128b3611eeebca034"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_medium_00/edges_a.csv": {
+    "bytes": 81282,
+    "sha256": "876e7c9e6b8ca0c9af900e28e347101cd711bcc426b9418dfd063a6925b278c6"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_medium_00/edges_b.csv": {
+    "bytes": 81249,
+    "sha256": "b0c129e48ce927cc8bd92a41063df7b6aa5d0a1c145cfdd4d71cf43c49bb2113"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_medium_00/ground_truth.csv": {
+    "bytes": 4594,
+    "sha256": "a551e389abf6457cd3b94cf6e9af0666cb9782ce3250ee16e60d6c5cea273fe9"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_medium_00/metadata.json": {
+    "bytes": 637,
+    "sha256": "ee30b96d73d4784837249ca23fa596d1908051c61ba8154750fd768998d937b7"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_medium_00/nodes_a.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "02_seed_free/student/seed_free/val/stochastic_block_medium_00/nodes_b.csv": {
+    "bytes": 2298,
+    "sha256": "4df1344c7cc43746731eac419eb3d6e6928bc7286a5b965d613d8f0dde6790c8"
+  },
+  "03_membership_inference/PROJECT_INSTRUCTIONS.txt": {
+    "bytes": 2439,
+    "sha256": "3aeb53c4f6d5807515d332c2a5846459ace28a82b71a53eab3d826259ebaf5c8"
+  },
+  "03_membership_inference/data/digits/digits.csv": {
+    "bytes": 503186,
+    "sha256": "f65bd93238b91d5d650951aacf6a718b3e747c876eb9c42367f2fca705eb82e7"
+  },
+  "03_membership_inference/data/digits/source.json": {
+    "bytes": 264,
+    "sha256": "a87fc071ecbc1eb261bade1d86a0c6194a41f91169780335f821168300aad3aa"
+  },
+  "03_membership_inference/environment.yml": {
+    "bytes": 209,
+    "sha256": "9e59453e360436cbd91e959fdf1cc9d901a08cd09c3964094d4c91b9b7eea17b"
+  },
+  "04_dp_reconstruction/DP_STUDENT_10STEPS.txt": {
+    "bytes": 6097,
+    "sha256": "38fdd0fc252a6cd6a17672f9174493443fb7302161358d41ab359eafa49b2d26"
+  },
+  "04_dp_reconstruction/START_HERE.txt": {
+    "bytes": 615,
+    "sha256": "d7f0f983a462021b5dbae2284a644cedcfedbff33b9e6dfb2da731e165f7e693"
+  },
+  "04_dp_reconstruction/environment.yml": {
+    "bytes": 209,
+    "sha256": "9e59453e360436cbd91e959fdf1cc9d901a08cd09c3964094d4c91b9b7eea17b"
+  },
+  "04_dp_reconstruction/observations/seed42/batch1_eps_4.npz": {
+    "bytes": 5722848,
+    "sha256": "cafeb8f40df4663d5116fa1f7ee0f9e9338c323f955de4a63b482bea9a920ccf"
+  },
+  "04_dp_reconstruction/observations/seed42/batch2_eps_4.npz": {
+    "bytes": 2862848,
+    "sha256": "e9ec9fac718330116dcb13a9156b09b213c60e3ed825a2d2fd5b95f39c201a14"
+  },
+  "04_dp_reconstruction/observations/seed42/batch4_eps_4.npz": {
+    "bytes": 1432848,
+    "sha256": "642ebd762230761fa26694f68c695179187d969242c5c61dfca795a19d345695"
+  },
+  "04_dp_reconstruction/observations/seed43/batch1_eps_4.npz": {
+    "bytes": 5722848,
+    "sha256": "2c74bb41b0b734eb99b878b0b15ea05a1d014f9013197a52b226a5c197838039"
+  },
+  "04_dp_reconstruction/observations/seed43/batch2_eps_4.npz": {
+    "bytes": 2862848,
+    "sha256": "717d24b9fd11c098e33de224a3fc54c5c6aaa16eddeabae760be227c2882e3d2"
+  },
+  "04_dp_reconstruction/observations/seed43/batch4_eps_4.npz": {
+    "bytes": 1432848,
+    "sha256": "82819ce008fb8a94b783a21a3ba30349ef49d6494da24f9967da368eeaf133bd"
+  },
+  "04_dp_reconstruction/observations/seed44/batch1_eps_4.npz": {
+    "bytes": 5722848,
+    "sha256": "924e1be7a943e088f9dc5d7da5693d31f5e9a7bb78e9c343c9b3cfdf077d4e74"
+  },
+  "04_dp_reconstruction/observations/seed44/batch2_eps_4.npz": {
+    "bytes": 2862848,
+    "sha256": "00d7316b3f40ca0bd0c691cf38a479c519e7ddcecb3b7daf005915b7960d8a5b"
+  },
+  "04_dp_reconstruction/observations/seed44/batch4_eps_4.npz": {
+    "bytes": 1432848,
+    "sha256": "1e97cb1994f11b1ce5a603f3b842f610405eb5a6e0ea7970cc8554182d81b38e"
+  },
+  "04_dp_reconstruction/public.npz": {
+    "bytes": 526714,
+    "sha256": "a3ee48a74cd9cf54a9b73e04c1e14d6fa4853bffe8cc28c6fd9d8ae574d83322"
+  },
+  "04_dp_reconstruction/scenario.json": {
+    "bytes": 162,
+    "sha256": "0c7ba1f94101878cb61ef653b142b60e7e834d1142d6af20b9d3077715eb41e7"
+  },
+  "04_dp_reconstruction/validation/batch1_clip_only.npz": {
+    "bytes": 1156698,
+    "sha256": "5d22392fecaf5646251a0e61b3a7d1c7f66929286b3049bb187b0f7daa15e6fa"
+  },
+  "04_dp_reconstruction/validation/batch1_eps_1.npz": {
+    "bytes": 1156698,
+    "sha256": "2c1cfebbfdee31213879803a8c0de6ba0c83cb3cee0b2048ad1ddecf1e88b8cf"
+  },
+  "04_dp_reconstruction/validation/batch1_eps_16.npz": {
+    "bytes": 1156698,
+    "sha256": "4a45a970a7479fad17b1d9b7c7192071398910ce5a6a64dd642c62b3d597a22c"
+  },
+  "04_dp_reconstruction/validation/batch1_eps_4.npz": {
+    "bytes": 1156698,
+    "sha256": "788c25e034532c578ef541c8167ef439c469e024343292149d6824d22219f235"
+  },
+  "04_dp_reconstruction/validation/batch1_non_private.npz": {
+    "bytes": 1156698,
+    "sha256": "84963caa2e7c1c642de8274b3e2e12efc2fd64d41d19a797fc3ad3a68d5d2b42"
+  },
+  "04_dp_reconstruction/validation/batch2_clip_only.npz": {
+    "bytes": 584698,
+    "sha256": "26ec2fb13260dce88a9dc7caae19cc6c09ec7d623c8d246cbb0e307f982055da"
+  },
+  "04_dp_reconstruction/validation/batch2_eps_1.npz": {
+    "bytes": 584698,
+    "sha256": "144b8f6f6fdb97fb7ff2f089111583baa82d20b53f3f64f76acee0a6de132167"
+  },
+  "04_dp_reconstruction/validation/batch2_eps_16.npz": {
+    "bytes": 584698,
+    "sha256": "61cc4dfda000278bc951bb18b83c18bb57065d44390f9d351cf30b73aef013df"
+  },
+  "04_dp_reconstruction/validation/batch2_eps_4.npz": {
+    "bytes": 584698,
+    "sha256": "8a6b240217dbb158214fe341e9f41daad1258809e1dbc2df71ecb7cd0d963b99"
+  },
+  "04_dp_reconstruction/validation/batch2_non_private.npz": {
+    "bytes": 584698,
+    "sha256": "13808f6c23b08ba92539b4cea8a7e64b9eb82a8e073185379bb8547daf1a9bf7"
+  },
+  "04_dp_reconstruction/validation/batch4_clip_only.npz": {
+    "bytes": 298698,
+    "sha256": "37b6b74cbb65bb7a279c19093ed1d15ba56ee16f804bd14fd23a9c8e2287f97c"
+  },
+  "04_dp_reconstruction/validation/batch4_eps_1.npz": {
+    "bytes": 298698,
+    "sha256": "301472a70e9aa3362a413acd229bcb95feaa05bbdd51db382e824307c5158f0f"
+  },
+  "04_dp_reconstruction/validation/batch4_eps_16.npz": {
+    "bytes": 298698,
+    "sha256": "a444dee3dfc8fda31fbdeda046529f65aba94e76dd9717a543ad41e9c40620af"
+  },
+  "04_dp_reconstruction/validation/batch4_eps_4.npz": {
+    "bytes": 298698,
+    "sha256": "f697ea8fd926306229830c63515826246e2f6d22b98af6df938c9a7c8d67af34"
+  },
+  "04_dp_reconstruction/validation/batch4_non_private.npz": {
+    "bytes": 298698,
+    "sha256": "6faea907a90ca47fea4c3b4dd1e0d70b12c3eb842bd398cf47d916ebebee72e0"
+  },
+  "START_HERE.txt": {
+    "bytes": 1067,
+    "sha256": "b50ff353a99e42c6816f451eaf1230fc144ae8a6ba148c357af61214b1bd4316"
+  }
+}

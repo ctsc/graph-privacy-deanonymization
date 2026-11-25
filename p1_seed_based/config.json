@@ -1,0 +1,22 @@
+{
+  "frozen": true,
+  "frozen_note": "Chosen on Train only (27 instances x 6 seed configs). Frozen before any Val or Test run. Do not edit.",
+  "method": {
+    "min_common": 3,
+    "min_common_floor": 1,
+    "lam_struct": 0.02,
+    "idf": 1,
+    "rounds": 40,
+    "bandwidth": 1.0,
+    "accept_margin": 0.0,
+    "reject_tau": 0.02
+  },
+  "train_macro_f1_with_reject_tau_0": {
+    "random_01": 0.8986, "random_05": 0.9900, "random_10": 0.9969,
+    "degree_01": 0.9391, "degree_05": 0.9876, "degree_10": 0.9985
+  },
+  "train_macro_over_all_configs": {
+    "reject_tau_0": {"precision": 0.9684, "recall": 0.9684, "f1": 0.9684, "coverage": 1.0},
+    "reject_tau_0.02": {"precision": 0.9691, "recall": 0.9684, "f1": 0.9688, "coverage": 0.9992}
+  }
+}

@@ -1,6 +1,0 @@
-{
-  "steps": 10,
-  "epsilon_total": 4.0,
-  "delta_total": 1e-05,
-  "scope": "one full11-state transcript; known labels/public model; no cross-trial combination"
-}
